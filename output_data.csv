@@ -1,0 +1,1001 @@
+id,timestamp,product_name,expiry_date,quantity,unit_price,channel,payment_method,discount,final_price,applied_discounts
+10000,2023-04-18,Wine - White Pinot Grigio,2023-06-10,6,122.47,Store,Visa,0.06,115.1218,ExpiryDateDiscount,WineDiscount
+10001,2023-04-09,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash,0.17,19.2394,ExpiryDateDiscount
+10002,2023-05-09,Wine - Chardonnay Mondavi,2023-08-04,7,189.74,Store,Cash,0.05,180.253,WineDiscount,QuantityDiscount
+10003,2023-04-09,External Supplier,2023-05-23,14,9.92,App,Visa,0.155,8.3824005,ExpiryDateDiscount,AppDiscount
+10004,2023-03-27,Beans - Black Bean Preserved,2023-05-28,13,145.85,Store,Cash,0.18,119.59701,ExpiryDateDiscount,QuantityDiscount
+10005,2023-04-27,Beef - Inside Round,2023-07-18,9,247.62,Store,Visa,0.07,230.28659,ExpiryDateDiscount,QuantityDiscount
+10006,2023-05-02,Bread - Calabrese Baguette,2023-05-28,1,111.21,Store,Visa,0.045,106.20555,VisaDiscount,ExpiryDateDiscount
+10007,2023-03-17,Zucchini - Mini Green,2023-05-05,15,146.75,Store,Visa,0.11,130.6075,ExpiryDateDiscount,QuantityDiscount
+10008,2023-03-22,Eggs - Extra Large,2023-04-08,16,48.05,App,Visa,0.165,40.12175,AppDiscount,ExpiryDateDiscount
+10009,2023-05-11,Pork - Liver,2023-07-20,17,191.13,Store,Visa,0.155,161.50485,ExpiryDateDiscount,QuantityDiscount
+10010,2023-04-04,Sesame Seed,2023-06-08,4,62.69,Store,Cash,0.26,46.3906,ExpiryDateDiscount
+10011,2023-04-14,Tuna - Yellowfin,2023-05-23,9,183.3,Store,Cash,0.13,159.47101,ExpiryDateDiscount,QuantityDiscount
+10012,2023-04-23,Wine - Magnotta - Belpaese,2023-05-12,9,101.36,Store,Cash,0.08,93.2512,ExpiryDateDiscount,WineDiscount
+10013,2023-04-26,Bar Bran Honey Nut,2023-07-20,15,13.21,Store,Cash,0.08,12.1532,QuantityDiscount,ExpiryDateDiscount
+10014,2023-04-23,Cake - French Pear Tart,2023-07-11,12,215.63,Store,Cash,0.095,195.14516,ExpiryDateDiscount,QuantityDiscount
+10015,2023-04-24,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash,0.05,18.3445,ExpiryDateDiscount
+10016,2023-04-06,Pork - Ham Virginia,2023-06-18,14,208.26,Store,Cash,0.125,182.2275,ExpiryDateDiscount,QuantityDiscount
+10017,2023-04-30,Wine - Prosecco Valdobienne,2023-06-01,15,221.11,Store,Visa,0.19,179.0991,ExpiryDateDiscount,QuantityDiscount
+10018,2023-04-23,Lettuce - Boston Bib - Organic,2023-06-13,6,96.43,Store,Visa,0.07,89.6799,ExpiryDateDiscount,QuantityDiscount
+10019,2023-04-05,Wine - Marlbourough Sauv Blanc,2023-04-10,4,233.83,App,Visa,0.15,198.75551,ExpiryDateDiscount,WineDiscount
+10020,2023-04-13,Longos - Chicken Cordon Bleu,2023-05-28,16,193.04,Store,Cash,0.125,168.90999,ExpiryDateDiscount,QuantityDiscount
+10021,2023-04-19,Beef Striploin Aaa,2023-06-06,9,81.77,Store,Cash,0.085,74.81955,ExpiryDateDiscount,QuantityDiscount
+10022,2023-04-29,Sauce - Oyster,2023-05-15,2,69.06,App,Visa,0.095,62.4993,ExpiryDateDiscount,AppDiscount
+10023,2023-04-03,Barley - Pearl,2023-05-29,3,94.98,App,Visa,0.05,90.231,AppDiscount,VisaDiscount
+10024,2023-05-09,Cheese Cloth No 60,2023-06-20,16,49.41,App,Visa,0.195,39.77505,AppDiscount,ExpiryDateDiscount
+10025,2023-03-25,Cut Wakame - Hanawakaba,2023-06-17,16,190.34,Store,Cash,0.085,174.1611,QuantityDiscount,ExpiryDateDiscount
+10026,2023-05-12,Kolrabi,2023-05-20,14,29.13,App,Visa,0.185,23.74095,ExpiryDateDiscount,AppDiscount
+10027,2023-05-03,Coffee - Espresso,2023-05-31,12,61.91,App,Visa,0.1,55.719,AppDiscount,VisaDiscount
+10028,2023-04-29,Beef - Kindney Whole,2023-04-30,14,7.41,Store,Visa,0.18,6.0762,ExpiryDateDiscount,QuantityDiscount
+10029,2023-05-10,Honey - Comb,2023-07-03,3,97.54,Store,Visa,0.06,91.6876,ExpiryDateDiscount,VisaDiscount
+10030,2023-04-19,Soup Campbells Turkey Veg.,2023-04-24,1,1.86,Store,Cash,0.25,1.395,ExpiryDateDiscount
+10031,2023-04-15,Syrup - Monin - Blue Curacao,2023-04-19,9,62.85,Store,Visa,0.155,53.10825,ExpiryDateDiscount,QuantityDiscount
+10032,2023-04-21,Coffee Beans - Chocolate,2023-07-15,15,29.33,Store,Cash,0.08,26.9836,QuantityDiscount,ExpiryDateDiscount
+10033,2023-04-13,Wine - Vidal Icewine Magnotta,2023-05-29,17,220.37,App,Visa,0.17,182.90709,AppDiscount,ExpiryDateDiscount
+10034,2023-03-29,Island Oasis - Peach Daiquiri,2023-06-18,16,128.13,Store,Visa,0.1,115.317,ExpiryDateDiscount,QuantityDiscount
+10035,2023-04-04,Lychee,2023-07-01,4,16.08,Store,Cash,0.03,15.5976,ExpiryDateDiscount
+10036,2023-03-17,Contreau,2023-04-16,11,222.63,App,Visa,0.1,200.367,AppDiscount,VisaDiscount
+10037,2023-04-08,Cheese - Taleggio D.o.p.,2023-04-27,1,205.18,Store,Visa,0.105,183.6361,ExpiryDateDiscount,CheeseDiscount
+10038,2023-03-30,Persimmons,2023-05-01,14,80.81,Store,Cash,0.18,66.2642,ExpiryDateDiscount,QuantityDiscount
+10039,2023-03-29,Towels - Paper / Kraft,2023-05-02,7,17.24,Store,Cash,0.16,14.4816,ExpiryDateDiscount,QuantityDiscount
+10040,2023-03-27,Pastry - Cheese Baked Scones,2023-06-08,11,232.08,App,Visa,0.165,193.7868,ExpiryDateDiscount,AppDiscount
+10041,2023-04-07,Honey - Liquid,2023-07-01,16,103.96,Store,Cash,0.08,95.643196,QuantityDiscount,ExpiryDateDiscount
+10042,2023-04-09,Veal - Bones,2023-06-30,14,48.36,App,Visa,0.12,42.5568,AppDiscount,ExpiryDateDiscount
+10043,2023-04-08,Beets,2023-04-15,16,108.46,Store,Cash,0.165,90.5641,ExpiryDateDiscount,QuantityDiscount
+10044,2023-04-25,Wine - Saint Emilion Calvet,2023-06-05,5,31.56,App,Visa,0.12,27.7728,ExpiryDateDiscount,WineDiscount
+10045,2023-04-13,Coffee - Ristretto Coffee Capsule,2023-06-23,12,234.0,Store,Visa,0.135,202.41,ExpiryDateDiscount,QuantityDiscount
+10046,2023-03-21,Beef - Tenderlion Center Cut,2023-04-08,7,245.12,Store,Visa,0.085,224.28479,ExpiryDateDiscount,QuantityDiscount
+10047,2023-04-12,Pails With Lids,2023-07-08,5,156.56,App,Visa,0.05,148.732,AppDiscount,VisaDiscount
+10048,2023-04-22,Wine - Cousino Macul Antiguas,2023-05-26,1,78.82,Store,Visa,0.155,66.6029,ExpiryDateDiscount,WineDiscount
+10049,2023-03-25,Puree - Mango,2023-06-20,7,236.95,Store,Cash,0.045,226.28725,QuantityDiscount,ExpiryDateDiscount
+10050,2023-04-15,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash,0.01,165.5478,ExpiryDateDiscount
+10051,2023-04-02,Table Cloth 91x91 Colour,2023-05-11,1,132.54,App,Visa,0.13,115.30979,ExpiryDateDiscount,AppDiscount
+10052,2023-05-01,Apron,2023-07-17,6,139.54,Store,Cash,0.095,126.28369,ExpiryDateDiscount,QuantityDiscount
+10053,2023-04-17,Chocolate - Mi - Amere Semi,2023-07-04,6,227.37,App,Visa,0.115,201.22244,ExpiryDateDiscount,AppDiscount
+10054,2023-04-05,Tomatoes - Plum Canned,2023-05-31,10,68.25,Store,Cash,0.055,64.49625,QuantityDiscount,ExpiryDateDiscount
+10055,2023-04-14,Oysters - Smoked,2023-07-08,15,66.86,App,Visa,0.105,59.8397,AppDiscount,ExpiryDateDiscount
+10056,2023-04-19,Pork - Chop Frenched,2023-05-07,2,154.51,Store,Cash,0.12,135.9688,ExpiryDateDiscount
+10057,2023-05-10,Pastry - Baked Cinnamon Stick,2023-05-16,12,64.08,App,Visa,0.195,51.5844,ExpiryDateDiscount,AppDiscount
+10058,2023-04-03,Bread Foccacia Whole,2023-04-18,1,198.9,App,Visa,0.1,179.01,ExpiryDateDiscount,AppDiscount
+10059,2023-04-07,Tuna - Loin,2023-06-16,7,26.01,App,Visa,0.155,21.97845,ExpiryDateDiscount,AppDiscount
+10060,2023-04-02,Corn Syrup,2023-04-27,8,124.55,App,Visa,0.075,115.208755,AppDiscount,ExpiryDateDiscount
+10061,2023-05-05,Wine - Bouchard La Vignee Pinot,2023-05-06,5,202.72,App,Visa,0.17,168.2576,ExpiryDateDiscount,WineDiscount
+10062,2023-04-20,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash,0.07,79.431305,ExpiryDateDiscount
+10063,2023-04-08,Cocoa Butter,2023-04-10,3,149.72,App,Visa,0.165,125.016205,ExpiryDateDiscount,AppDiscount
+10064,2023-03-30,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash,0.18,20.1966,ExpiryDateDiscount
+10065,2023-04-03,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash,0.08,65.458,ExpiryDateDiscount
+10066,2023-04-18,Wine - Magnotta White,2023-06-12,4,136.58,Store,Cash,0.05,129.751,ExpiryDateDiscount,WineDiscount
+10067,2023-04-01,Veal - Knuckle,2023-05-10,10,186.71,Store,Cash,0.14,160.5706,ExpiryDateDiscount,QuantityDiscount
+10068,2023-04-12,Sugar - Brown,2023-04-28,13,218.79,App,Visa,0.145,187.06544,AppDiscount,ExpiryDateDiscount
+10069,2023-04-03,Mix - Cocktail Ice Cream,2023-05-29,15,94.51,Store,Cash,0.07,87.8943,QuantityDiscount,ExpiryDateDiscount
+10070,2023-04-11,Bread Base - Gold Formel,2023-04-17,6,83.09,App,Visa,0.17,68.9647,ExpiryDateDiscount,AppDiscount
+10071,2023-04-25,Salmon - Whole 4 - 6 Pounds,2023-06-09,9,188.02,Store,Cash,0.1,169.218,ExpiryDateDiscount,QuantityDiscount
+10072,2023-04-27,Lettuce - Radicchio,2023-06-26,12,227.89,Store,Cash,0.07,211.9377,QuantityDiscount
+10073,2023-03-21,Wood Chips - Regular,2023-06-06,17,191.65,App,Visa,0.17,159.06949,AppDiscount,ExpiryDateDiscount
+10074,2023-04-04,Pails With Lids,2023-06-01,1,88.1,App,Visa,0.05,83.695,AppDiscount,VisaDiscount
+10075,2023-04-29,Strawberries,2023-05-28,2,148.88,App,Visa,0.05,141.436,AppDiscount,VisaDiscount
+10076,2023-05-01,Bread - Pita,2023-05-10,2,130.58,Store,Cash,0.21,103.1582,ExpiryDateDiscount
+10077,2023-04-12,Hand Towel,2023-05-01,12,219.89,Store,Cash,0.09,200.0999,ExpiryDateDiscount,QuantityDiscount
+10078,2023-04-12,Ice Cream - Chocolate,2023-05-30,6,175.97,App,Visa,0.11,156.6133,ExpiryDateDiscount,AppDiscount
+10079,2023-04-16,Lid - 16 Oz And 32 Oz,2023-04-17,10,105.73,Store,Cash,0.18,86.6986,ExpiryDateDiscount,QuantityDiscount
+10080,2023-03-17,Mayonnaise,2023-03-22,12,100.57,Store,Cash,0.16,84.4788,ExpiryDateDiscount,QuantityDiscount
+10081,2023-04-06,Tarts Assorted,2023-06-26,3,172.63,Store,Visa,0.075,159.68275,ExpiryDateDiscount,VisaDiscount
+10082,2023-05-04,Butter - Salted,2023-06-13,14,105.08,Store,Cash,0.14,90.368805,ExpiryDateDiscount,QuantityDiscount
+10083,2023-03-27,Amaretto,2023-05-28,13,6.89,Store,Cash,0.18,5.6498,ExpiryDateDiscount,QuantityDiscount
+10084,2023-04-03,Bread - White Mini Epi,2023-06-21,17,21.35,Store,Cash,0.11,19.001501,ExpiryDateDiscount,QuantityDiscount
+10085,2023-04-12,Lamb - Bones,2023-06-13,16,111.07,App,Visa,0.245,83.85785,ExpiryDateDiscount,AppDiscount
+10086,2023-04-26,Bagelers - Cinn / Brown Sugar,2023-06-23,12,210.78,Store,Cash,0.045,201.29489,QuantityDiscount,ExpiryDateDiscount
+10087,2023-05-04,Soup - Campbells Beef Barley,2023-05-28,17,206.53,Store,Visa,0.08,190.0076,QuantityDiscount,ExpiryDateDiscount
+10088,2023-03-24,Pasta - Fettuccine Egg Fresh,2023-06-02,6,166.99,Store,Cash,0.13,145.28131,ExpiryDateDiscount,QuantityDiscount
+10089,2023-05-03,Nut - Almond Blanched Whole,2023-07-14,9,53.84,Store,Cash,0.12,47.3792,ExpiryDateDiscount,QuantityDiscount
+10090,2023-03-17,Wine - White Schroder And Schyl,2023-03-23,13,165.67,Store,Cash,0.155,139.99115,ExpiryDateDiscount,QuantityDiscount
+10091,2023-05-02,Soup - Knorr Chicken Gumbo,2023-05-11,3,236.76,Store,Cash,0.21,187.04039,ExpiryDateDiscount
+10092,2023-04-26,Wine - Red Colio Cabernet,2023-04-27,14,150.82,Store,Visa,0.18,123.67241,ExpiryDateDiscount,QuantityDiscount
+10093,2023-05-02,Thyme - Lemon Fresh,2023-05-29,14,88.35,Store,Cash,0.05,83.932495,QuantityDiscount,ExpiryDateDiscount
+10094,2023-03-13,Honey - Lavender,2023-04-13,1,11.79,App,Visa,0.175,9.72675,ExpiryDateDiscount,AppDiscount
+10095,2023-05-05,Cake - Bande Of Fruit,2023-05-10,11,43.91,App,Visa,0.2,35.128,ExpiryDateDiscount,AppDiscount
+10096,2023-04-08,Veal - Insides Provini,2023-04-26,11,40.81,App,Visa,0.135,35.30065,AppDiscount,ExpiryDateDiscount
+10097,2023-03-20,Cheese - Taleggio D.o.p.,2023-03-25,10,194.85,Store,Visa,0.175,160.75125,ExpiryDateDiscount,CheeseDiscount
+10098,2023-04-20,Table Cloth 54x54 Colour,2023-07-03,15,186.31,Store,Cash,0.135,161.15814,ExpiryDateDiscount,QuantityDiscount
+10099,2023-03-18,Nut - Walnut Chopped,2023-05-03,14,180.3,App,Visa,0.15,153.255,ExpiryDateDiscount,AppDiscount
+10100,2023-04-26,Turkey - Whole Fresh,2023-06-17,17,138.43,Store,Cash,0.09,125.97129,QuantityDiscount,ExpiryDateDiscount
+10101,2023-04-12,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash,0.1,133.983,ExpiryDateDiscount
+10102,2023-04-24,Nantucket - Orange Mango Cktl,2023-06-05,6,161.12,Store,Cash,0.115,142.5912,ExpiryDateDiscount,QuantityDiscount
+10103,2023-04-12,Flower - Carnations,2023-05-21,6,229.61,Store,Cash,0.13,199.7607,ExpiryDateDiscount,QuantityDiscount
+10104,2023-04-29,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash,0.29,17.2317,ExpiryDateDiscount
+10105,2023-04-17,Soup - Base Broth Beef,2023-05-21,14,55.81,Store,Visa,0.165,46.601353,ExpiryDateDiscount,QuantityDiscount
+10106,2023-05-04,Mikes Hard Lemonade,2023-05-24,5,62.32,Store,Cash,0.1,56.088,ExpiryDateDiscount
+10107,2023-03-31,Pasta - Lasagna Dry,2023-06-01,12,8.24,Store,Visa,0.18,6.7567997,ExpiryDateDiscount,QuantityDiscount
+10108,2023-04-06,Ginsing - Fresh,2023-06-19,9,92.93,Store,Visa,0.11,82.7077,ExpiryDateDiscount,QuantityDiscount
+10109,2023-05-03,Capon - Breast Wing On,2023-07-27,9,171.96,App,Visa,0.08,158.2032,AppDiscount,ExpiryDateDiscount
+10110,2023-05-07,Chocolate - Semi Sweet Calets,2023-07-30,15,197.52,Store,Cash,0.085,180.7308,QuantityDiscount,ExpiryDateDiscount
+10111,2023-03-20,Tray - 16in Rnd Blk,2023-06-16,12,7.88,App,Visa,0.1,7.092,AppDiscount,VisaDiscount
+10112,2023-05-08,Coffee - Frthy Coffee Crisp,2023-05-31,16,22.75,App,Visa,0.135,19.67875,AppDiscount,ExpiryDateDiscount
+10113,2023-05-04,Schnappes Peppermint - Walker,2023-05-20,6,19.59,App,Visa,0.12,17.2392,ExpiryDateDiscount,AppDiscount
+10114,2023-03-20,Wine - White Lindemans Bin 95,2023-04-19,9,182.21,Store,Cash,0.05,173.0995,WineDiscount,QuantityDiscount
+10115,2023-05-08,Coffee Cup 12oz 5342cd,2023-07-15,10,130.1,App,Visa,0.165,108.63351,ExpiryDateDiscount,AppDiscount
+10116,2023-03-21,Paper - Brown Paper Mini Cups,2023-06-05,6,5.63,Store,Cash,0.1,5.067,ExpiryDateDiscount,QuantityDiscount
+10117,2023-04-30,Coffee - Frthy Coffee Crisp,2023-07-17,15,177.35,Store,Cash,0.115,156.95476,ExpiryDateDiscount,QuantityDiscount
+10118,2023-05-03,Tea - Orange Pekoe,2023-05-20,1,71.36,App,Visa,0.09,64.9376,ExpiryDateDiscount,AppDiscount
+10119,2023-05-02,Muffin Mix - Raisin Bran,2023-06-29,11,171.22,App,Visa,0.1,154.098,AppDiscount,VisaDiscount
+10120,2023-03-23,Jack Daniels,2023-06-14,17,210.22,Store,Cash,0.3,147.154,SpecialDayDiscount,QuantityDiscount
+10121,2023-04-22,Beef - Ground Medium,2023-07-05,14,174.09,App,Visa,0.16,146.2356,ExpiryDateDiscount,AppDiscount
+10122,2023-04-25,Onion Powder,2023-05-03,15,136.9,Store,Cash,0.16,114.995995,ExpiryDateDiscount,QuantityDiscount
+10123,2023-04-02,Tomatoes - Grape,2023-06-28,13,164.11,App,Visa,0.1,147.699,AppDiscount,VisaDiscount
+10124,2023-03-22,Wine - Chenin Blanc K.w.v.,2023-06-07,11,184.55,App,Visa,0.145,157.79025,AppDiscount,ExpiryDateDiscount
+10125,2023-04-04,Quail - Eggs Fresh,2023-04-28,13,222.23,Store,Cash,0.065,207.78505,QuantityDiscount,ExpiryDateDiscount
+10126,2023-04-16,Bread - Pumpernickel,2023-05-12,11,182.41,Store,Cash,0.055,172.37746,QuantityDiscount,ExpiryDateDiscount
+10127,2023-03-16,Apples - Spartan,2023-06-06,6,127.75,Store,Visa,0.07,118.8075,ExpiryDateDiscount,QuantityDiscount
+10128,2023-04-05,Snails - Large Canned,2023-06-10,8,158.15,Store,Visa,0.15,134.42749,ExpiryDateDiscount,QuantityDiscount
+10129,2023-03-13,Eggplant - Baby,2023-04-18,3,241.88,App,Visa,0.15,205.598,ExpiryDateDiscount,AppDiscount
+10130,2023-04-13,Wine - Rioja Campo Viejo,2023-05-10,15,165.9,App,Visa,0.1,149.31,AppDiscount,WineDiscount
+10131,2023-04-20,Wine - Rosso Toscano Igt,2023-04-25,1,188.66,App,Visa,0.15,160.36101,ExpiryDateDiscount,WineDiscount
+10132,2023-04-06,Wine - Blue Nun Qualitatswein,2023-04-08,7,228.35,Store,Cash,0.165,190.67226,ExpiryDateDiscount,WineDiscount
+10133,2023-04-11,Ecolab Crystal Fusion,2023-07-07,5,90.56,App,Visa,0.05,86.032,AppDiscount,VisaDiscount
+10134,2023-04-24,Ecolab Crystal Fusion,2023-07-23,9,92.27,Store,Cash,0.03,89.5019,QuantityDiscount,ExpiryDateDiscount
+10135,2023-03-28,Sauce - White Mix,2023-05-02,13,194.21,App,Visa,0.205,154.39696,ExpiryDateDiscount,AppDiscount
+10136,2023-04-15,Lobak,2023-06-11,15,91.02,Store,Visa,0.075,84.1935,QuantityDiscount,VisaDiscount
+10137,2023-04-09,Pasta - Shells Medium Dry,2023-04-11,3,212.35,App,Visa,0.165,177.31226,ExpiryDateDiscount,AppDiscount
+10138,2023-05-10,Tomatoes Tear Drop Yellow,2023-06-03,13,45.47,Store,Visa,0.065,42.51445,QuantityDiscount,ExpiryDateDiscount
+10139,2023-05-05,Melon - Honey Dew,2023-07-27,12,167.18,Store,Cash,0.075,154.6415,ExpiryDateDiscount,QuantityDiscount
+10140,2023-03-23,Dried Cranberries,2023-04-25,16,166.28,Store,Visa,0.39,101.4308,SpecialDayDiscount,ExpiryDateDiscount
+10141,2023-03-26,Bagels Poppyseed,2023-05-10,8,80.83,App,Visa,0.13,70.3221,ExpiryDateDiscount,AppDiscount
+10142,2023-04-23,Mushroom - Crimini,2023-06-08,15,217.8,App,Visa,0.145,186.21901,AppDiscount,ExpiryDateDiscount
+10143,2023-04-28,Spice - Peppercorn Melange,2023-06-16,7,234.14,App,Visa,0.105,209.5553,ExpiryDateDiscount,AppDiscount
+10144,2023-03-19,Fruit Salad Deluxe,2023-05-22,4,148.25,Store,Visa,0.16,124.53,ExpiryDateDiscount,VisaDiscount
+10145,2023-03-25,Mountain Dew,2023-04-07,13,62.12,Store,Cash,0.12,54.6656,ExpiryDateDiscount,QuantityDiscount
+10146,2023-03-19,Pur Value,2023-04-12,4,9.19,App,Visa,0.055,8.684549,ExpiryDateDiscount,AppDiscount
+10147,2023-03-18,Remy Red Berry Infusion,2023-05-26,7,38.18,App,Visa,0.16,32.0712,ExpiryDateDiscount,AppDiscount
+10148,2023-04-27,Chestnuts - Wholecanned,2023-06-14,9,38.44,App,Visa,0.11,34.211597,ExpiryDateDiscount,AppDiscount
+10149,2023-03-20,Pork - Sausage Medium,2023-04-06,6,233.63,Store,Cash,0.09,212.6033,ExpiryDateDiscount,QuantityDiscount
+10150,2023-03-17,Apple - Royal Gala,2023-05-03,10,235.0,Store,Cash,0.105,210.325,ExpiryDateDiscount,QuantityDiscount
+10151,2023-04-24,Oil - Cooking Spray,2023-05-30,14,83.2,App,Visa,0.195,66.976,ExpiryDateDiscount,AppDiscount
+10152,2023-04-26,Tuna - Bluefin,2023-05-02,5,9.57,Store,Cash,0.24,7.2731996,ExpiryDateDiscount
+10153,2023-03-22,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash,0.3,45.415997,ExpiryDateDiscount
+10154,2023-05-06,Mustard - Individual Pkg,2023-07-29,14,161.8,Store,Cash,0.07,150.474,ExpiryDateDiscount,QuantityDiscount
+10155,2023-05-12,Pepper - Julienne Frozen,2023-07-20,10,135.67,App,Visa,0.16,113.9628,ExpiryDateDiscount,AppDiscount
+10156,2023-04-25,Hummus - Spread,2023-05-03,17,135.48,Store,Cash,0.16,113.8032,ExpiryDateDiscount,QuantityDiscount
+10157,2023-03-13,Absolut Citron,2023-05-25,9,62.42,Store,Visa,0.115,55.2417,ExpiryDateDiscount,QuantityDiscount
+10158,2023-05-10,Salad Dressing,2023-05-24,6,150.28,Store,Cash,0.105,134.5006,ExpiryDateDiscount,QuantityDiscount
+10159,2023-03-21,Yogurt - Assorted Pack,2023-05-06,11,64.81,App,Visa,0.15,55.088497,ExpiryDateDiscount,AppDiscount
+10160,2023-04-21,Soap - Hand Soap,2023-05-26,6,83.29,Store,Cash,0.15,70.7965,ExpiryDateDiscount,QuantityDiscount
+10161,2023-05-04,Barley - Pearl,2023-06-30,2,123.76,App,Visa,0.05,117.572,AppDiscount,VisaDiscount
+10162,2023-04-20,Appetizer - Sausage Rolls,2023-06-25,8,75.13,Store,Cash,0.15,63.860497,ExpiryDateDiscount,QuantityDiscount
+10163,2023-03-16,Lemons,2023-03-31,17,247.42,App,Visa,0.175,204.1215,AppDiscount,ExpiryDateDiscount
+10164,2023-04-28,Cake - Miini Cheesecake Cherry,2023-05-31,12,127.02,Store,Cash,0.185,103.52129,ExpiryDateDiscount,CheeseDiscount
+10165,2023-04-05,Table Cloth 72x144 White,2023-06-27,17,229.19,Store,Visa,0.09,208.5629,QuantityDiscount,ExpiryDateDiscount
+10166,2023-03-17,Sword Pick Asst,2023-04-15,1,204.31,Store,Visa,0.03,198.1807,VisaDiscount,ExpiryDateDiscount
+10167,2023-03-18,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash,0.19,58.538696,ExpiryDateDiscount
+10168,2023-03-19,Tuna - Sushi Grade,2023-05-09,14,40.61,Store,Cash,0.085,37.15815,ExpiryDateDiscount,QuantityDiscount
+10169,2023-05-02,Wine - Vovray Sec Domaine Huet,2023-05-27,4,41.5,App,Visa,0.05,39.425,ExpiryDateDiscount,WineDiscount
+10170,2023-03-21,Watercress,2023-04-21,14,227.82,Store,Visa,0.185,185.67331,ExpiryDateDiscount,QuantityDiscount
+10171,2023-03-29,V8 Splash Strawberry Banana,2023-06-07,13,42.39,Store,Cash,0.14,36.4554,ExpiryDateDiscount,QuantityDiscount
+10172,2023-03-18,Syrup - Monin - Blue Curacao,2023-05-27,10,121.04,Store,Cash,0.14,104.0944,ExpiryDateDiscount,QuantityDiscount
+10173,2023-05-04,Sprouts - China Rose,2023-05-06,10,58.63,Store,Cash,0.175,48.36975,ExpiryDateDiscount,QuantityDiscount
+10174,2023-03-19,Pears - Bosc,2023-04-19,15,46.72,App,Visa,0.225,36.208,ExpiryDateDiscount,AppDiscount
+10175,2023-03-23,Beef - Ox Tongue,2023-05-06,3,152.52,Store,Cash,0.335,101.425804,SpecialDayDiscount,ExpiryDateDiscount
+10176,2023-04-10,Buttons,2023-05-16,5,80.87,App,Visa,0.145,69.14385,ExpiryDateDiscount,AppDiscount
+10177,2023-03-23,The Pop Shoppe - Root Beer,2023-05-18,15,226.37,Store,Visa,0.3,158.459,SpecialDayDiscount,QuantityDiscount
+10178,2023-03-30,Pork - Ground,2023-04-14,1,189.55,Store,Cash,0.15,161.11751,ExpiryDateDiscount
+10179,2023-04-08,Wasabi Powder,2023-05-03,1,24.63,App,Visa,0.05,23.398499,ExpiryDateDiscount,AppDiscount
+10180,2023-03-17,Milk 2% 500 Ml,2023-05-15,14,229.53,App,Visa,0.1,206.577,AppDiscount,VisaDiscount
+10181,2023-03-23,Flavouring - Orange,2023-04-05,14,183.47,Store,Visa,0.335,122.00755,SpecialDayDiscount,ExpiryDateDiscount
+10182,2023-05-01,Juice - Orange Concentrate,2023-05-10,11,95.39,App,Visa,0.18,78.2198,ExpiryDateDiscount,AppDiscount
+10183,2023-03-15,Bonito Flakes - Toku Katsuo,2023-04-23,12,96.35,Store,Visa,0.145,82.37925,ExpiryDateDiscount,QuantityDiscount
+10184,2023-04-19,Bread - Bistro White,2023-05-19,15,68.7,App,Visa,0.225,53.242496,ExpiryDateDiscount,AppDiscount
+10185,2023-04-18,Bread - English Muffin,2023-06-08,2,11.09,App,Visa,0.07,10.3137,ExpiryDateDiscount,AppDiscount
+10186,2023-04-22,Nantuket Peach Orange,2023-06-12,9,88.17,Store,Cash,0.07,81.9981,ExpiryDateDiscount,QuantityDiscount
+10187,2023-04-09,Currants,2023-06-05,11,87.0,Store,Cash,0.05,82.65,QuantityDiscount,ExpiryDateDiscount
+10188,2023-04-19,Wine - Red Gallo Merlot,2023-07-05,14,171.66,Store,Cash,0.105,153.6357,ExpiryDateDiscount,QuantityDiscount
+10189,2023-05-05,Cheese - Camembert,2023-06-19,10,62.27,App,Visa,0.13,54.1749,ExpiryDateDiscount,CheeseDiscount
+10190,2023-04-27,Container - Hngd Cll Blk 7x7x3,2023-06-21,17,247.07,Store,Visa,0.075,228.53976,QuantityDiscount,ExpiryDateDiscount
+10191,2023-04-04,Tomatoes - Vine Ripe Red,2023-05-09,9,197.06,App,Visa,0.175,162.5745,ExpiryDateDiscount,AppDiscount
+10192,2023-04-14,Durian Fruit,2023-06-15,5,246.05,App,Visa,0.17,204.2215,ExpiryDateDiscount,AppDiscount
+10193,2023-03-23,Veal - Shank Pieces,2023-06-01,15,64.0,Store,Cash,0.355,41.28,SpecialDayDiscount,ExpiryDateDiscount
+10194,2023-04-23,Container - Clear 32 Oz,2023-05-17,14,201.77,Store,Visa,0.065,188.65495,QuantityDiscount,ExpiryDateDiscount
+10195,2023-05-05,Soup - Campbells - Chicken Noodle,2023-06-17,15,126.29,App,Visa,0.165,105.45215,ExpiryDateDiscount,AppDiscount
+10196,2023-05-01,Rice - Aborio,2023-07-06,6,16.2,Store,Cash,0.15,13.77,ExpiryDateDiscount,QuantityDiscount
+10197,2023-03-16,Wine - Fume Blanc Fetzer,2023-06-04,14,93.19,App,Visa,0.13,81.0753,AppDiscount,ExpiryDateDiscount
+10198,2023-04-21,Beef - Salted,2023-07-11,1,83.46,App,Visa,0.075,77.2005,ExpiryDateDiscount,AppDiscount
+10199,2023-04-09,Pastry - French Mini Assorted,2023-05-05,6,220.44,Store,Cash,0.045,210.5202,QuantityDiscount,ExpiryDateDiscount
+10200,2023-05-11,Liners - Baking Cups,2023-08-05,4,1.45,App,Visa,0.05,1.3775,ExpiryDateDiscount,AppDiscount
+10201,2023-04-30,Cookie - Oatmeal,2023-05-13,8,67.93,App,Visa,0.135,58.75945,ExpiryDateDiscount,AppDiscount
+10202,2023-04-09,Pastry - Banana Tea Loaf,2023-05-20,7,174.86,App,Visa,0.145,149.5053,ExpiryDateDiscount,AppDiscount
+10203,2023-03-23,Broom And Brush Rack Black,2023-03-31,12,236.64,Store,Visa,0.36,151.4496,SpecialDayDiscount,ExpiryDateDiscount
+10204,2023-05-05,Fish - Bones,2023-07-06,5,194.87,Store,Cash,0.29,138.3577,ExpiryDateDiscount
+10205,2023-04-22,Pie Shell - 5,2023-05-01,7,182.98,Store,Visa,0.13,159.1926,ExpiryDateDiscount,QuantityDiscount
+10206,2023-04-05,Wine - White Colubia Cresh,2023-04-23,16,142.82,App,Visa,0.16,119.9688,AppDiscount,ExpiryDateDiscount
+10207,2023-04-30,Celery Root,2023-05-08,10,6.28,App,Visa,0.16,5.2752004,ExpiryDateDiscount,AppDiscount
+10208,2023-03-22,Longos - Greek Salad,2023-06-11,8,86.7,App,Visa,0.1,78.03,ExpiryDateDiscount,AppDiscount
+10209,2023-03-13,Puree - Raspberry,2023-03-19,16,13.46,Store,Cash,0.17,11.1718,ExpiryDateDiscount,QuantityDiscount
+10210,2023-04-11,Calvados - Boulard,2023-04-13,4,228.68,App,Visa,0.165,190.9478,ExpiryDateDiscount,AppDiscount
+10211,2023-04-14,Scampi Tail,2023-06-21,14,187.9,Store,Cash,0.15,159.715,ExpiryDateDiscount,QuantityDiscount
+10212,2023-04-20,Island Oasis - Ice Cream Mix,2023-05-15,10,123.17,App,Visa,0.075,113.93225,AppDiscount,ExpiryDateDiscount
+10213,2023-05-01,Plasticforkblack,2023-07-17,17,162.91,Store,Cash,0.12,143.36081,ExpiryDateDiscount,QuantityDiscount
+10214,2023-03-18,Bread - 10 Grain Parisian,2023-04-13,3,228.82,Store,Cash,0.04,219.6672,ExpiryDateDiscount
+10215,2023-03-27,Kale - Red,2023-04-11,4,218.31,Store,Cash,0.15,185.56349,ExpiryDateDiscount
+10216,2023-03-13,Wine - Casillero Deldiablo,2023-05-27,7,22.82,Store,Cash,0.105,20.4239,ExpiryDateDiscount,WineDiscount
+10217,2023-04-08,Maintenance Removal Charge,2023-05-19,16,197.57,Store,Cash,0.145,168.92236,ExpiryDateDiscount,QuantityDiscount
+10218,2023-03-18,Tea - Mint,2023-04-18,13,156.99,Store,Cash,0.185,127.94685,ExpiryDateDiscount,QuantityDiscount
+10219,2023-04-22,Cookie - Oreo 100x2,2023-05-03,16,145.35,App,Visa,0.195,117.00675,AppDiscount,ExpiryDateDiscount
+10220,2023-05-11,Compound - Pear,2023-06-15,12,16.86,Store,Cash,0.165,14.0781,ExpiryDateDiscount,QuantityDiscount
+10221,2023-04-09,The Pop Shoppe Pinapple,2023-06-24,15,28.4,Store,Visa,0.125,24.85,ExpiryDateDiscount,QuantityDiscount
+10222,2023-04-11,Tarragon - Primerba Paste,2023-05-04,12,4.44,Store,Visa,0.07,4.1292,ExpiryDateDiscount,QuantityDiscount
+10223,2023-04-24,Straw - Regular,2023-05-19,13,167.1,Store,Cash,0.06,157.074,QuantityDiscount,ExpiryDateDiscount
+10224,2023-03-22,Mussels - Cultivated,2023-04-28,9,155.12,Store,Visa,0.145,132.6276,ExpiryDateDiscount,QuantityDiscount
+10225,2023-04-15,Beef - Top Butt Aaa,2023-05-29,7,75.8,App,Visa,0.13,65.946,ExpiryDateDiscount,AppDiscount
+10226,2023-04-23,Beer - Sleemans Honey Brown,2023-04-28,9,195.62,Store,Visa,0.15,166.277,ExpiryDateDiscount,QuantityDiscount
+10227,2023-04-26,Bread - Pumpernickle Rounds,2023-04-29,16,30.8,Store,Cash,0.185,25.102,ExpiryDateDiscount,QuantityDiscount
+10228,2023-04-08,Cheese - Cheddar With Claret,2023-06-09,12,171.33,Store,Cash,0.195,137.92065,ExpiryDateDiscount,CheeseDiscount
+10229,2023-04-25,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash,0.19,117.3366,ExpiryDateDiscount
+10230,2023-05-11,Quiche Assorted,2023-06-19,13,194.39,Store,Cash,0.145,166.20345,ExpiryDateDiscount,QuantityDiscount
+10231,2023-05-09,Cherries - Fresh,2023-07-27,9,86.3,App,Visa,0.11,76.807,ExpiryDateDiscount,AppDiscount
+10232,2023-04-01,Appetizer - Cheese Bites,2023-05-24,6,127.16,App,Visa,0.1,114.444,CheeseDiscount,AppDiscount
+10233,2023-04-05,Wine - Barossa Valley Estate,2023-07-04,16,166.47,Store,Visa,0.075,153.98476,QuantityDiscount,WineDiscount
+10234,2023-04-30,External Supplier,2023-06-15,10,177.68,App,Visa,0.12,156.3584,ExpiryDateDiscount,AppDiscount
+10235,2023-03-17,The Pop Shoppe Pinapple,2023-04-06,1,62.58,App,Visa,0.075,57.8865,ExpiryDateDiscount,AppDiscount
+10236,2023-04-05,Wine - Red Gallo Merlot,2023-05-10,15,210.55,Store,Visa,0.175,173.70375,ExpiryDateDiscount,QuantityDiscount
+10237,2023-03-20,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash,0.14,89.3626,ExpiryDateDiscount
+10238,2023-04-12,Yoghurt Tubes,2023-04-28,3,172.6,Store,Cash,0.14,148.436,ExpiryDateDiscount
+10239,2023-04-24,Fudge - Chocolate Fudge,2023-07-23,4,9.43,Store,Visa,0.03,9.1471,VisaDiscount,ExpiryDateDiscount
+10240,2023-04-15,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash,0.03,181.681,ExpiryDateDiscount
+10241,2023-03-25,Chef Hat 25cm,2023-04-02,10,126.81,Store,Visa,0.145,108.42255,ExpiryDateDiscount,QuantityDiscount
+10242,2023-03-20,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash,0.07,123.4854,ExpiryDateDiscount
+10243,2023-03-25,Soup - Campbells Chili Veg,2023-06-02,14,88.34,Store,Cash,0.145,75.5307,ExpiryDateDiscount,QuantityDiscount
+10244,2023-04-01,Bread - Granary Small Pull,2023-05-04,13,149.45,Store,Visa,0.17,124.043495,ExpiryDateDiscount,QuantityDiscount
+10245,2023-03-26,Bananas,2023-06-05,13,103.36,Store,Visa,0.135,89.4064,ExpiryDateDiscount,QuantityDiscount
+10246,2023-04-01,Glaze - Apricot,2023-05-16,16,29.3,Store,Cash,0.125,25.637499,ExpiryDateDiscount,QuantityDiscount
+10247,2023-04-02,Wine - Taylors Reserve,2023-06-20,16,51.5,Store,Visa,0.11,45.835,ExpiryDateDiscount,QuantityDiscount
+10248,2023-03-31,Cheese - Havarti Salsa,2023-05-09,7,37.1,Store,Cash,0.155,31.349499,ExpiryDateDiscount,CheeseDiscount
+10249,2023-05-11,Nori Sea Weed - Gold Label,2023-06-30,15,217.08,App,Visa,0.13,188.8596,AppDiscount,ExpiryDateDiscount
+10250,2023-03-23,Wine La Vielle Ferme Cote Du,2023-05-01,16,179.99,Store,Cash,0.36,115.1936,SpecialDayDiscount,ExpiryDateDiscount
+10251,2023-04-22,Coffee - Frthy Coffee Crisp,2023-06-05,11,155.69,App,Visa,0.155,131.55804,ExpiryDateDiscount,AppDiscount
+10252,2023-04-20,Marjoram - Dried Rubbed,2023-06-13,2,25.33,App,Visa,0.055,23.93685,ExpiryDateDiscount,AppDiscount
+10253,2023-05-09,The Pop Shoppe Pinapple,2023-05-19,16,148.54,Store,Cash,0.15,126.258995,ExpiryDateDiscount,QuantityDiscount
+10254,2023-04-09,Crawfish,2023-04-22,11,173.66,Store,Cash,0.12,152.8208,ExpiryDateDiscount,QuantityDiscount
+10255,2023-04-06,Pork - Bacon Double Smoked,2023-06-22,2,108.18,Store,Visa,0.095,97.9029,ExpiryDateDiscount,VisaDiscount
+10256,2023-05-08,Beer - Upper Canada Light,2023-06-09,3,137.12,App,Visa,0.17,113.80959,ExpiryDateDiscount,AppDiscount
+10257,2023-05-02,Napkin - Beverge White 2 - Ply,2023-06-05,12,133.32,App,Visa,0.21,105.32281,ExpiryDateDiscount,AppDiscount
+10258,2023-03-13,Wine - Vineland Estate Semi - Dry,2023-05-23,13,154.59,Store,Visa,0.135,133.72035,ExpiryDateDiscount,QuantityDiscount
+10259,2023-04-17,Scrubbie - Scotchbrite Hand Pad,2023-06-16,9,130.41,Store,Cash,0.05,123.8895,QuantityDiscount
+10260,2023-04-03,Kellogs Raisan Bran Bars,2023-05-04,1,49.13,Store,Visa,0.17,40.7779,ExpiryDateDiscount,VisaDiscount
+10261,2023-04-29,Wine - Rubyport,2023-05-14,10,236.91,App,Visa,0.125,207.29625,ExpiryDateDiscount,AppDiscount
+10262,2023-03-15,Pumpkin,2023-03-24,7,154.67,Store,Visa,0.13,134.5629,ExpiryDateDiscount,QuantityDiscount
+10263,2023-05-11,Brandy Cherry - Mcguinness,2023-06-23,10,118.87,App,Visa,0.14,102.2282,ExpiryDateDiscount,AppDiscount
+10264,2023-03-17,Wine - Soave Folonari,2023-03-28,1,123.96,Store,Cash,0.12,109.0848,ExpiryDateDiscount,WineDiscount
+10265,2023-04-11,Tomatoes - Cherry,2023-06-13,6,22.32,Store,Cash,0.165,18.6372,ExpiryDateDiscount,QuantityDiscount
+10266,2023-04-05,Mousse - Banana Chocolate,2023-06-09,9,194.32,App,Visa,0.18,159.3424,ExpiryDateDiscount,AppDiscount
+10267,2023-03-13,Cheese - Brick With Pepper,2023-03-31,1,122.85,Store,Cash,0.11,109.3365,ExpiryDateDiscount,CheeseDiscount
+10268,2023-04-03,Flour - Chickpea,2023-05-14,4,11.43,Store,Visa,0.12,10.0584,ExpiryDateDiscount,VisaDiscount
+10269,2023-04-24,Tart Shells - Savory 2,2023-07-20,8,107.87,Store,Cash,0.045,103.015854,QuantityDiscount,ExpiryDateDiscount
+10270,2023-04-10,Clams - Bay,2023-04-17,8,225.63,App,Visa,0.165,188.40105,ExpiryDateDiscount,AppDiscount
+10271,2023-05-06,Honey - Comb,2023-06-14,13,122.33,Store,Cash,0.145,104.59215,ExpiryDateDiscount,QuantityDiscount
+10272,2023-04-27,Thyme - Dried,2023-07-20,11,189.65,Store,Cash,0.07,176.3745,ExpiryDateDiscount,QuantityDiscount
+10273,2023-05-04,V8 Splash Strawberry Kiwi,2023-07-02,12,222.58,Store,Cash,0.045,212.5639,QuantityDiscount,ExpiryDateDiscount
+10274,2023-04-13,Jameson Irish Whiskey,2023-06-30,17,100.98,App,Visa,0.165,84.318306,AppDiscount,ExpiryDateDiscount
+10275,2023-04-05,Lemonade - Pineapple Passion,2023-05-12,7,59.74,Store,Cash,0.14,51.3764,ExpiryDateDiscount,QuantityDiscount
+10276,2023-03-16,Coconut - Creamed Pure,2023-04-11,14,179.51,App,Visa,0.1,161.55899,AppDiscount,VisaDiscount
+10277,2023-05-04,Pepper - Chillies Crushed,2023-07-08,14,177.57,App,Visa,0.205,141.16815,ExpiryDateDiscount,AppDiscount
+10278,2023-04-22,Petit Baguette,2023-06-01,2,184.09,App,Visa,0.125,161.07875,ExpiryDateDiscount,AppDiscount
+10279,2023-03-23,Juice - Apple 500 Ml,2023-04-19,1,148.21,Store,Cash,0.265,108.93436,SpecialDayDiscount,ExpiryDateDiscount
+10280,2023-04-02,Onions - Spanish,2023-05-06,15,147.93,Store,Cash,0.18,121.3026,ExpiryDateDiscount,QuantityDiscount
+10281,2023-03-16,Wine - Carmenere Casillero Del,2023-04-12,3,64.07,App,Visa,0.05,60.8665,WineDiscount,AppDiscount
+10282,2023-05-10,Chips Potato All Dressed - 43g,2023-06-08,16,34.82,Store,Cash,0.055,32.9049,QuantityDiscount,ExpiryDateDiscount
+10283,2023-04-30,Pastrami,2023-07-19,1,153.31,Store,Cash,0.11,136.44589,ExpiryDateDiscount
+10284,2023-04-29,Sobe - Green Tea,2023-07-28,6,43.28,Store,Visa,0.05,41.115997,QuantityDiscount,VisaDiscount
+10285,2023-04-20,Cheese - La Sauvagine,2023-05-26,15,212.0,Store,Cash,0.17,175.96,ExpiryDateDiscount,CheeseDiscount
+10286,2023-03-15,Jicama,2023-05-05,10,236.23,Store,Cash,0.085,216.15045,ExpiryDateDiscount,QuantityDiscount
+10287,2023-04-30,Wine - Sicilia Igt Nero Avola,2023-05-28,4,199.37,App,Visa,0.05,189.40149,WineDiscount,AppDiscount
+10288,2023-03-13,Ginger - Crystalized,2023-05-09,6,112.72,Store,Cash,0.045,107.6476,QuantityDiscount,ExpiryDateDiscount
+10289,2023-04-28,Blue Curacao - Marie Brizard,2023-06-05,13,83.43,Store,Visa,0.145,71.33265,ExpiryDateDiscount,QuantityDiscount
+10290,2023-05-05,Pail - 15l White With Handle,2023-06-06,11,232.62,Store,Visa,0.18,190.7484,ExpiryDateDiscount,QuantityDiscount
+10291,2023-04-06,Pork - Kidney,2023-06-01,17,190.32,Store,Cash,0.07,176.9976,QuantityDiscount,ExpiryDateDiscount
+10292,2023-04-01,Table Cloth - 53x69 Colour,2023-06-16,3,3.83,App,Visa,0.1,3.447,ExpiryDateDiscount,AppDiscount
+10293,2023-04-05,Ostrich - Prime Cut,2023-06-04,13,39.62,App,Visa,0.1,35.657997,AppDiscount,VisaDiscount
+10294,2023-03-25,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash,0.02,107.8294,ExpiryDateDiscount
+10295,2023-03-27,Fish - Artic Char Cold Smoked,2023-05-17,1,135.58,Store,Visa,0.075,125.4115,ExpiryDateDiscount,VisaDiscount
+10296,2023-04-10,Oil - Canola,2023-05-24,12,171.54,Store,Visa,0.115,151.8129,ExpiryDateDiscount,QuantityDiscount
+10297,2023-04-28,Bread - English Muffin,2023-06-18,7,247.0,Store,Visa,0.07,229.71,ExpiryDateDiscount,QuantityDiscount
+10298,2023-03-15,Table Cloth 120 Round White,2023-06-02,17,114.51,App,Visa,0.16,96.1884,AppDiscount,ExpiryDateDiscount
+10299,2023-05-03,Pork Ham Prager,2023-07-16,11,38.62,App,Visa,0.16,32.4408,ExpiryDateDiscount,AppDiscount
+10300,2023-03-18,Dc - Frozen Momji,2023-04-23,12,228.91,App,Visa,0.2,183.128,ExpiryDateDiscount,AppDiscount
+10301,2023-04-06,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash,0.22,135.6732,ExpiryDateDiscount
+10302,2023-04-29,Veal Inside - Provimi,2023-07-28,11,4.73,Store,Cash,0.04,4.5408,QuantityDiscount,ExpiryDateDiscount
+10303,2023-04-07,Pepper - Chillies Crushed,2023-06-01,1,70.85,App,Visa,0.05,67.307495,ExpiryDateDiscount,AppDiscount
+10304,2023-04-24,Chef Hat 20cm,2023-05-25,2,25.15,Store,Visa,0.17,20.8745,ExpiryDateDiscount,VisaDiscount
+10305,2023-05-08,Oil - Olive Extra Virgin,2023-07-28,16,24.09,App,Visa,0.15,20.4765,AppDiscount,ExpiryDateDiscount
+10306,2023-04-01,Basil - Thai,2023-05-05,4,237.09,Store,Visa,0.155,200.34105,ExpiryDateDiscount,VisaDiscount
+10307,2023-04-08,Fennel - Seeds,2023-06-12,6,216.99,Store,Cash,0.155,183.35655,ExpiryDateDiscount,QuantityDiscount
+10308,2023-04-12,Gingerale - Schweppes 355 Ml,2023-04-27,3,11.12,App,Visa,0.1,10.007999,ExpiryDateDiscount,AppDiscount
+10309,2023-03-14,Duck - Whole,2023-05-06,17,161.92,Store,Cash,0.09,147.3472,QuantityDiscount,ExpiryDateDiscount
+10310,2023-04-23,Truffle - Whole Black Peeled,2023-05-03,7,200.92,Store,Visa,0.125,175.805,ExpiryDateDiscount,QuantityDiscount
+10311,2023-03-17,Lobak,2023-06-01,1,123.8,Store,Cash,0.15,105.23,ExpiryDateDiscount
+10312,2023-04-19,Pasta - Linguini Dry,2023-06-25,8,95.68,Store,Cash,0.145,81.8064,ExpiryDateDiscount,QuantityDiscount
+10313,2023-04-29,Plate Foam Laminated 9in Blk,2023-05-13,10,214.18,Store,Cash,0.115,189.54929,ExpiryDateDiscount,QuantityDiscount
+10314,2023-03-14,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash,0.29,59.1856,ExpiryDateDiscount
+10315,2023-03-28,Chocolate - Milk Callets,2023-04-24,3,54.68,Store,Cash,0.03,53.0396,ExpiryDateDiscount
+10316,2023-04-01,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash,0.21,113.0727,ExpiryDateDiscount
+10317,2023-03-16,Horseradish Root,2023-03-22,14,140.21,App,Visa,0.195,112.86906,ExpiryDateDiscount,AppDiscount
+10318,2023-04-25,Bamboo Shoots - Sliced,2023-05-22,17,4.37,App,Visa,0.125,3.82375,AppDiscount,VisaDiscount
+10319,2023-05-04,Sauce - Oyster,2023-08-02,1,171.96,Store,Visa,0.03,166.80121,VisaDiscount,ExpiryDateDiscount
+10320,2023-03-30,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash,0.03,200.5475,ExpiryDateDiscount
+10321,2023-04-13,Cheese - Marble,2023-05-11,11,95.2,Store,Cash,0.085,87.107994,CheeseDiscount,QuantityDiscount
+10322,2023-04-11,Wine - Cotes Du Rhone Parallele,2023-05-04,7,249.5,App,Visa,0.085,228.2925,AppDiscount,ExpiryDateDiscount
+10323,2023-04-14,Mop Head - Cotton 24 Oz,2023-07-09,15,103.03,Store,Visa,0.075,95.30275,QuantityDiscount,ExpiryDateDiscount
+10324,2023-04-24,Eggwhite Frozen,2023-07-15,14,239.98,Store,Visa,0.08,220.7816,ExpiryDateDiscount,QuantityDiscount
+10325,2023-04-08,Truffle Cups - Brown,2023-05-24,5,151.69,Store,Visa,0.095,137.27945,ExpiryDateDiscount,VisaDiscount
+10326,2023-04-17,Muskox - French Rack,2023-06-09,10,61.34,App,Visa,0.085,56.1261,AppDiscount,ExpiryDateDiscount
+10327,2023-05-10,Sprite Diet - 355ml,2023-05-15,17,4.52,Store,Cash,0.175,3.729,ExpiryDateDiscount,QuantityDiscount
+10328,2023-03-31,Burger Veggie,2023-06-20,10,119.32,Store,Visa,0.085,109.1778,ExpiryDateDiscount,QuantityDiscount
+10329,2023-04-25,Food Colouring - Orange,2023-06-22,12,110.22,App,Visa,0.1,99.198,AppDiscount,VisaDiscount
+10330,2023-04-09,Truffle Cups - White Paper,2023-05-30,11,191.82,App,Visa,0.12,168.8016,AppDiscount,ExpiryDateDiscount
+10331,2023-05-04,Ostrich - Prime Cut,2023-07-01,7,249.79,App,Visa,0.075,231.05574,AppDiscount,VisaDiscount
+10332,2023-04-04,Sole - Iqf,2023-06-24,17,235.06,App,Visa,0.15,199.801,AppDiscount,ExpiryDateDiscount
+10333,2023-05-06,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash,0.22,33.5478,ExpiryDateDiscount
+10334,2023-03-18,Pork - Chop Frenched,2023-04-29,11,56.66,Store,Cash,0.13,49.2942,ExpiryDateDiscount,QuantityDiscount
+10335,2023-05-07,Bread - Roll Whole Wheat,2023-05-31,9,163.09,Store,Visa,0.055,154.12004,ExpiryDateDiscount,QuantityDiscount
+10336,2023-04-02,Island Oasis - Peach Daiquiri,2023-05-17,15,199.42,Store,Visa,0.125,174.4925,ExpiryDateDiscount,QuantityDiscount
+10337,2023-04-17,Cheese - Gouda,2023-05-18,1,214.08,App,Visa,0.195,172.3344,ExpiryDateDiscount,CheeseDiscount
+10338,2023-04-06,Food Colouring - Green,2023-06-18,3,244.82,App,Visa,0.115,216.66571,ExpiryDateDiscount,AppDiscount
+10339,2023-03-27,Bread - White Sliced,2023-06-13,11,3.7,App,Visa,0.14,3.1820002,AppDiscount,ExpiryDateDiscount
+10340,2023-05-01,Parsley - Fresh,2023-07-20,12,174.57,App,Visa,0.13,151.8759,AppDiscount,ExpiryDateDiscount
+10341,2023-03-22,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash,0.26,147.8964,ExpiryDateDiscount
+10342,2023-04-06,Muffin Hinge 117n,2023-07-03,3,23.57,App,Visa,0.05,22.3915,AppDiscount,VisaDiscount
+10343,2023-03-31,Hipnotiq Liquor,2023-05-10,1,132.92,Store,Visa,0.125,116.305,ExpiryDateDiscount,VisaDiscount
+10344,2023-03-18,Jameson - Irish Whiskey,2023-04-14,10,94.05,App,Visa,0.075,86.996254,AppDiscount,VisaDiscount
+10345,2023-03-19,Peas Snow,2023-05-06,12,201.55,Store,Cash,0.1,181.395,ExpiryDateDiscount,QuantityDiscount
+10346,2023-03-14,Soup - Knorr Ministrone,2023-05-30,7,166.86,App,Visa,0.12,146.8368,ExpiryDateDiscount,AppDiscount
+10347,2023-04-26,Soup Campbells Split Pea And Ham,2023-07-25,6,88.86,App,Visa,0.075,82.1955,AppDiscount,VisaDiscount
+10348,2023-03-17,Beef - Ox Tongue,2023-06-15,9,41.68,Store,Visa,0.05,39.596,QuantityDiscount,VisaDiscount
+10349,2023-04-14,Water - Aquafina Vitamin,2023-05-05,3,173.65,Store,Cash,0.09,158.0215,ExpiryDateDiscount
+10350,2023-05-12,Sesame Seed,2023-06-22,5,227.34,Store,Visa,0.125,198.9225,ExpiryDateDiscount,VisaDiscount
+10351,2023-03-17,Wine - Soave Folonari,2023-05-10,11,158.85,Store,Visa,0.07,147.7305,ExpiryDateDiscount,QuantityDiscount
+10352,2023-04-25,Pork - Ham Hocks - Smoked,2023-07-16,6,142.45,App,Visa,0.095,128.91725,AppDiscount,ExpiryDateDiscount
+10353,2023-03-31,Cheese - Woolwich Goat Log,2023-06-02,15,213.3,Store,Cash,0.19,172.773,ExpiryDateDiscount,CheeseDiscount
+10354,2023-04-14,Bread - Roll Calabrese,2023-07-04,11,21.13,App,Visa,0.125,18.488749,AppDiscount,ExpiryDateDiscount
+10355,2023-03-27,Pork - Smoked Back Bacon,2023-04-26,10,221.82,App,Visa,0.075,205.1835,AppDiscount,VisaDiscount
+10356,2023-03-20,Compound - Raspberry,2023-05-17,17,105.46,Store,Visa,0.075,97.5505,QuantityDiscount,VisaDiscount
+10357,2023-03-15,Mousse - Banana Chocolate,2023-06-04,5,117.79,App,Visa,0.075,108.95575,ExpiryDateDiscount,AppDiscount
+10358,2023-04-20,Flour - Chickpea,2023-05-07,6,175.29,Store,Visa,0.09,159.5139,ExpiryDateDiscount,QuantityDiscount
+10359,2023-03-27,Wine - Baron De Rothschild,2023-05-14,16,230.14,Store,Cash,0.115,203.6739,ExpiryDateDiscount,QuantityDiscount
+10360,2023-05-11,Tart Shells - Savory 3,2023-08-08,10,91.41,App,Visa,0.075,84.55425,AppDiscount,VisaDiscount
+10361,2023-03-15,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash,0.07,143.9082,ExpiryDateDiscount
+10362,2023-05-03,Soup - Campbells Beef Barley,2023-05-25,7,11.2,App,Visa,0.09,10.191999,AppDiscount,ExpiryDateDiscount
+10363,2023-03-20,Sugar - Sweet N Low Individual,2023-03-24,1,176.87,Store,Cash,0.26,130.88379,ExpiryDateDiscount
+10364,2023-04-05,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash,0.21,155.4404,ExpiryDateDiscount
+10365,2023-05-09,Flower - Leather Leaf Fern,2023-07-27,8,108.89,Store,Cash,0.085,99.634346,ExpiryDateDiscount,QuantityDiscount
+10366,2023-03-21,Potatoes - Mini Red,2023-06-14,17,19.03,Store,Cash,0.08,17.5076,QuantityDiscount,ExpiryDateDiscount
+10367,2023-03-16,Cheese - Brick With Pepper,2023-04-10,7,179.52,App,Visa,0.1,161.56801,CheeseDiscount,AppDiscount
+10368,2023-03-30,Tea - Decaf 1 Cup,2023-04-15,5,44.48,Store,Cash,0.14,38.2528,ExpiryDateDiscount
+10369,2023-04-02,Wine - Prosecco Valdobienne,2023-04-25,12,175.86,App,Visa,0.11,156.5154,AppDiscount,ExpiryDateDiscount
+10370,2023-03-18,Wonton Wrappers,2023-05-06,17,245.21,App,Visa,0.16,205.97641,AppDiscount,ExpiryDateDiscount
+10371,2023-03-23,Oranges,2023-04-30,16,168.9,App,Visa,0.365,107.251495,SpecialDayDiscount,ExpiryDateDiscount
+10372,2023-05-01,Vodka - Smirnoff,2023-05-19,6,22.11,Store,Cash,0.085,20.23065,ExpiryDateDiscount,QuantityDiscount
+10373,2023-05-11,Doilies - 7 Paper,2023-06-20,14,114.09,App,Visa,0.18,93.553795,ExpiryDateDiscount,AppDiscount
+10374,2023-04-26,Sauce - Vodka Blush,2023-06-17,17,11.78,App,Visa,0.14,10.1308,AppDiscount,ExpiryDateDiscount
+10375,2023-03-28,Fruit Salad Deluxe,2023-06-14,12,121.28,Store,Cash,0.1,109.152,ExpiryDateDiscount,QuantityDiscount
+10376,2023-03-20,Tray - 16in Rnd Blk,2023-05-09,6,167.8,Store,Visa,0.08,154.376,ExpiryDateDiscount,QuantityDiscount
+10377,2023-04-17,Shallots,2023-07-12,6,193.62,App,Visa,0.075,179.0985,AppDiscount,ExpiryDateDiscount
+10378,2023-05-12,Lobak,2023-05-28,2,62.86,App,Visa,0.095,56.8883,ExpiryDateDiscount,AppDiscount
+10379,2023-04-24,The Pop Shoppe - Black Cherry,2023-06-03,7,56.81,Store,Cash,0.125,49.70875,ExpiryDateDiscount,QuantityDiscount
+10380,2023-05-12,Cheese - Le Cru Du Clocher,2023-05-22,6,66.27,Store,Cash,0.15,56.3295,ExpiryDateDiscount,CheeseDiscount
+10381,2023-03-19,Bread - Sticks Thin Plain,2023-04-16,10,187.56,App,Visa,0.075,173.493,AppDiscount,VisaDiscount
+10382,2023-03-14,Assorted Desserts,2023-03-23,7,15.94,Store,Visa,0.13,13.8678,ExpiryDateDiscount,QuantityDiscount
+10383,2023-03-27,Shrimp - 31/40,2023-06-04,17,127.13,App,Visa,0.21,100.4327,ExpiryDateDiscount,AppDiscount
+10384,2023-04-02,Appetizer - Shrimp Puff,2023-04-08,16,12.4,Store,Cash,0.17,10.292,ExpiryDateDiscount,QuantityDiscount
+10385,2023-03-28,Shortbread - Cookie Crumbs,2023-04-28,6,105.47,Store,Cash,0.175,87.01275,ExpiryDateDiscount,QuantityDiscount
+10386,2023-05-11,Sausage - Meat,2023-07-28,1,234.17,Store,Cash,0.13,203.7279,ExpiryDateDiscount
+10387,2023-04-13,Raspberries - Frozen,2023-05-18,9,193.27,Store,Cash,0.15,164.27951,ExpiryDateDiscount,QuantityDiscount
+10388,2023-03-19,Carbonated Water - Lemon Lime,2023-04-03,3,17.15,Store,Cash,0.15,14.577499,ExpiryDateDiscount
+10389,2023-05-08,Cookie Dough - Oatmeal Rasin,2023-05-28,1,221.69,Store,Visa,0.075,205.06325,ExpiryDateDiscount,VisaDiscount
+10390,2023-05-11,Coffee Cup 16oz Foam,2023-07-15,12,188.64,Store,Cash,0.165,157.5144,ExpiryDateDiscount,QuantityDiscount
+10391,2023-04-14,Cheese - Swiss,2023-05-20,8,197.96,Store,Visa,0.17,164.30681,ExpiryDateDiscount,CheeseDiscount
+10392,2023-03-24,Flour - Whole Wheat,2023-06-13,15,230.0,Store,Cash,0.1,207.0,ExpiryDateDiscount,QuantityDiscount
+10393,2023-03-26,Tobasco Sauce,2023-04-01,1,158.62,Store,Visa,0.145,135.6201,ExpiryDateDiscount,VisaDiscount
+10394,2023-04-06,Vegetable - Base,2023-05-19,4,7.2,Store,Visa,0.11,6.408,ExpiryDateDiscount,VisaDiscount
+10395,2023-04-12,Macaroons - Two Bite Choc,2023-06-02,4,180.79,Store,Visa,0.07,168.13469,ExpiryDateDiscount,VisaDiscount
+10396,2023-04-10,Iced Tea - Lemon 460 Ml,2023-04-23,13,7.96,Store,Cash,0.12,7.0048,ExpiryDateDiscount,QuantityDiscount
+10397,2023-04-10,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash,0.19,82.1745,ExpiryDateDiscount
+10398,2023-04-19,Wine - Chardonnay Mondavi,2023-06-11,8,62.95,App,Visa,0.085,57.59925,AppDiscount,ExpiryDateDiscount
+10399,2023-03-14,Kale - Red,2023-06-01,17,125.13,Store,Visa,0.11,111.3657,ExpiryDateDiscount,QuantityDiscount
+10400,2023-04-05,Chevere Logs,2023-06-06,6,99.87,App,Visa,0.195,80.395355,ExpiryDateDiscount,AppDiscount
+10401,2023-04-10,Fondant - Icing,2023-06-17,8,161.12,Store,Visa,0.14,138.5632,ExpiryDateDiscount,QuantityDiscount
+10402,2023-04-02,Table Cloth 53x53 White,2023-04-20,8,245.07,Store,Cash,0.085,224.23906,ExpiryDateDiscount,QuantityDiscount
+10403,2023-04-20,Soup - Campbells Asian Noodle,2023-05-14,2,213.54,Store,Visa,0.055,201.79529,ExpiryDateDiscount,VisaDiscount
+10404,2023-04-14,Pate - Cognac,2023-07-13,12,223.77,Store,Cash,0.04,214.8192,QuantityDiscount,ExpiryDateDiscount
+10405,2023-04-30,Turnip - White,2023-07-12,1,239.67,Store,Cash,0.18,196.5294,ExpiryDateDiscount
+10406,2023-04-06,Cheese - Woolwich Goat Log,2023-05-10,6,153.26,Store,Cash,0.18,125.673195,ExpiryDateDiscount,CheeseDiscount
+10523,2023-04-09,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash,0.03,11.1259,ExpiryDateDiscount
+10407,2023-04-23,Oil - Shortening - All - Purpose,2023-07-13,17,145.27,App,Visa,0.15,123.47951,AppDiscount,ExpiryDateDiscount
+10408,2023-04-23,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash,0.02,29.125599,ExpiryDateDiscount
+10409,2023-05-04,Hagen Daza - Dk Choocolate,2023-05-08,15,122.94,Store,Visa,0.18,100.8108,ExpiryDateDiscount,QuantityDiscount
+10410,2023-03-26,Yoplait - Strawbrasp Peac,2023-06-15,5,69.06,App,Visa,0.075,63.880497,ExpiryDateDiscount,AppDiscount
+10411,2023-04-20,Cream - 35%,2023-07-03,7,203.34,App,Visa,0.135,175.8891,ExpiryDateDiscount,AppDiscount
+10412,2023-03-18,Lemon Balm - Fresh,2023-05-28,14,58.77,App,Visa,0.175,48.48525,ExpiryDateDiscount,AppDiscount
+10413,2023-04-07,Cheese - Grie Des Champ,2023-05-10,6,40.56,Store,Visa,0.185,33.0564,ExpiryDateDiscount,CheeseDiscount
+10414,2023-03-30,Stock - Beef White,2023-05-02,9,60.72,Store,Cash,0.165,50.701202,ExpiryDateDiscount,QuantityDiscount
+10415,2023-03-26,Onions - Cippolini,2023-04-10,4,161.28,App,Visa,0.1,145.152,ExpiryDateDiscount,AppDiscount
+10416,2023-04-25,Beef - Tender Tips,2023-05-01,3,5.69,Store,Visa,0.145,4.86495,ExpiryDateDiscount,VisaDiscount
+10417,2023-03-18,Beer - Guiness,2023-03-19,16,232.34,Store,Cash,0.195,187.03369,ExpiryDateDiscount,QuantityDiscount
+10418,2023-03-15,Soup - Campbells Beef Stew,2023-05-22,2,208.53,App,Visa,0.14,179.3358,ExpiryDateDiscount,AppDiscount
+10419,2023-04-04,Soup - Chicken And Wild Rice,2023-06-17,12,126.06,Store,Cash,0.12,110.9328,ExpiryDateDiscount,QuantityDiscount
+10420,2023-03-16,Ice Cream - Life Savers,2023-06-14,13,6.12,Store,Visa,0.06,5.7528,QuantityDiscount,VisaDiscount
+10421,2023-05-03,Pork - Backfat,2023-06-06,3,209.35,Store,Cash,0.27,152.8255,ExpiryDateDiscount
+10422,2023-05-08,Pecan Raisin - Tarts,2023-05-27,14,122.75,Store,Cash,0.09,111.7025,ExpiryDateDiscount,QuantityDiscount
+10423,2023-04-16,Brocolinni - Gaylan Chinese,2023-04-27,6,111.13,Store,Cash,0.12,97.794395,ExpiryDateDiscount,QuantityDiscount
+10424,2023-04-25,Cheese - Manchego Spanish,2023-06-02,15,7.6,App,Visa,0.185,6.194,ExpiryDateDiscount,AppDiscount
+10425,2023-04-26,Mustard - Pommery,2023-07-09,14,125.39,Store,Cash,0.12,110.3432,ExpiryDateDiscount,QuantityDiscount
+10426,2023-04-01,Potatoes - Mini Red,2023-06-28,11,225.48,Store,Visa,0.06,211.9512,QuantityDiscount,VisaDiscount
+10427,2023-03-26,Pastry - Carrot Muffin - Mini,2023-04-24,6,241.17,Store,Cash,0.03,233.93489,QuantityDiscount,ExpiryDateDiscount
+10428,2023-04-20,Sparkling Wine - Rose Freixenet,2023-04-26,15,245.79,Store,Cash,0.17,204.00569,ExpiryDateDiscount,QuantityDiscount
+10429,2023-04-14,Jam - Blackberry 20 Ml Jar,2023-06-30,14,64.57,Store,Visa,0.105,57.79015,ExpiryDateDiscount,QuantityDiscount
+10430,2023-03-20,Stock - Fish,2023-05-14,12,94.25,App,Visa,0.105,84.35375,AppDiscount,ExpiryDateDiscount
+10431,2023-04-10,Poppy Seed,2023-06-10,9,51.14,Store,Visa,0.175,42.1905,ExpiryDateDiscount,QuantityDiscount
+10432,2023-05-04,Fond - Neutral,2023-07-06,15,108.81,Store,Visa,0.19,88.1361,ExpiryDateDiscount,QuantityDiscount
+10433,2023-03-17,Artichoke - Fresh,2023-05-08,14,219.95,App,Visa,0.12,193.556,AppDiscount,ExpiryDateDiscount
+10434,2023-03-13,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash,0.19,103.2264,ExpiryDateDiscount
+10435,2023-03-13,Soup - Campbells Bean Medley,2023-06-10,16,162.4,App,Visa,0.125,142.09999,AppDiscount,VisaDiscount
+10436,2023-03-22,Canadian Emmenthal,2023-04-10,16,240.98,Store,Cash,0.105,215.6771,ExpiryDateDiscount,QuantityDiscount
+10437,2023-04-10,Corn - On The Cob,2023-06-04,15,245.09,App,Visa,0.1,220.581,AppDiscount,ExpiryDateDiscount
+10438,2023-03-26,Lamb Rack Frenched Australian,2023-05-03,1,138.86,Store,Visa,0.14,119.4196,ExpiryDateDiscount,VisaDiscount
+10439,2023-03-13,Pastry - Baked Cinnamon Stick,2023-05-13,17,166.51,Store,Visa,0.2,133.208,ExpiryDateDiscount,QuantityDiscount
+10440,2023-04-14,Tortillas - Flour 12,2023-05-03,6,49.16,App,Visa,0.105,43.9982,ExpiryDateDiscount,AppDiscount
+10441,2023-04-03,Steampan - Lid For Half Size,2023-05-21,15,233.85,Store,Cash,0.11,208.12651,ExpiryDateDiscount,QuantityDiscount
+10442,2023-04-05,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash,0.27,161.2205,ExpiryDateDiscount
+10443,2023-05-03,Loquat,2023-06-24,14,174.21,Store,Cash,0.08,160.27321,ExpiryDateDiscount,QuantityDiscount
+10444,2023-04-08,Juice - Ocean Spray Cranberry,2023-05-10,7,189.75,Store,Visa,0.165,158.44125,ExpiryDateDiscount,QuantityDiscount
+10445,2023-05-11,Beef - Inside Round,2023-06-23,7,1.36,Store,Cash,0.115,1.2036,ExpiryDateDiscount,QuantityDiscount
+10446,2023-05-12,Pancetta,2023-07-13,6,181.83,Store,Visa,0.17,150.9189,ExpiryDateDiscount,QuantityDiscount
+10447,2023-04-09,Garlic - Elephant,2023-04-19,17,132.65,Store,Cash,0.15,112.752495,ExpiryDateDiscount,QuantityDiscount
+10448,2023-05-02,Ranchero - Primerba Paste,2023-07-01,8,162.54,App,Visa,0.075,150.34949,AppDiscount,VisaDiscount
+10449,2023-04-02,Wine - Charddonnay Errazuriz,2023-05-15,3,92.21,Store,Visa,0.11,82.0669,ExpiryDateDiscount,WineDiscount
+10450,2023-03-16,Potatoes - Peeled,2023-04-16,5,78.01,App,Visa,0.175,64.35825,ExpiryDateDiscount,AppDiscount
+10451,2023-04-28,Triple Sec - Mcguinness,2023-05-18,4,44.35,Store,Cash,0.1,39.914997,ExpiryDateDiscount
+10452,2023-04-06,Longos - Penne With Pesto,2023-04-14,15,186.92,Store,Cash,0.16,157.0128,ExpiryDateDiscount,QuantityDiscount
+10453,2023-03-22,Onions - Red Pearl,2023-05-16,2,208.6,Store,Visa,0.055,197.127,ExpiryDateDiscount,VisaDiscount
+10454,2023-05-04,Pepper - Black Crushed,2023-07-02,16,152.4,Store,Visa,0.075,140.97,QuantityDiscount,VisaDiscount
+10455,2023-04-01,Fond - Neutral,2023-06-02,11,103.06,App,Visa,0.22,80.386795,ExpiryDateDiscount,AppDiscount
+10456,2023-04-01,Beer - Paulaner Hefeweisse,2023-06-28,13,37.05,Store,Visa,0.06,34.827,QuantityDiscount,VisaDiscount
+10457,2023-04-30,Sage Derby,2023-07-06,12,41.48,App,Visa,0.195,33.3914,ExpiryDateDiscount,AppDiscount
+10458,2023-03-14,Pasta - Fusili Tri - Coloured,2023-05-01,17,70.45,App,Visa,0.165,58.82575,AppDiscount,ExpiryDateDiscount
+10459,2023-03-25,Lady Fingers,2023-03-28,13,223.14,App,Visa,0.21,176.2806,ExpiryDateDiscount,AppDiscount
+10460,2023-03-17,Pop - Club Soda Can,2023-05-06,7,128.83,Store,Cash,0.08,118.523605,ExpiryDateDiscount,QuantityDiscount
+10461,2023-05-12,Cardamon Ground,2023-06-19,7,84.84,App,Visa,0.165,70.8414,ExpiryDateDiscount,AppDiscount
+10462,2023-04-01,Ice Cream - Life Savers,2023-04-06,5,53.47,Store,Visa,0.15,45.4495,ExpiryDateDiscount,VisaDiscount
+10463,2023-03-20,Five Alive Citrus,2023-03-27,4,51.52,Store,Visa,0.14,44.3072,ExpiryDateDiscount,VisaDiscount
+10464,2023-03-21,Bagel - 12 Grain Preslice,2023-06-03,7,169.41,Store,Visa,0.11,150.7749,ExpiryDateDiscount,QuantityDiscount
+10465,2023-04-28,Cheese - Augre Des Champs,2023-07-16,15,113.75,Store,Cash,0.11,101.2375,ExpiryDateDiscount,CheeseDiscount
+10466,2023-03-14,Chocolate - Milk Callets,2023-05-09,1,57.02,App,Visa,0.05,54.169,ExpiryDateDiscount,AppDiscount
+10467,2023-03-15,Tea Leaves - Oolong,2023-03-18,14,75.78,Store,Cash,0.17,62.8974,ExpiryDateDiscount,QuantityDiscount
+10468,2023-04-14,Chilli Paste Hot Sambal Oelek,2023-05-16,15,20.58,Store,Cash,0.19,16.6698,ExpiryDateDiscount,QuantityDiscount
+10469,2023-04-09,Red Cod Fillets - 225g,2023-06-15,14,234.77,Store,Cash,0.155,198.38066,ExpiryDateDiscount,QuantityDiscount
+10470,2023-03-27,Fuji Apples,2023-05-10,14,130.74,Store,Cash,0.12,115.05121,ExpiryDateDiscount,QuantityDiscount
+10471,2023-05-03,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash,0.02,209.9552,ExpiryDateDiscount
+10472,2023-04-23,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash,0.11,4.4678,ExpiryDateDiscount
+10473,2023-04-24,Soup - French Onion Dry,2023-06-05,7,157.84,Store,Visa,0.115,139.6884,ExpiryDateDiscount,QuantityDiscount
+10474,2023-03-29,Coffee - Irish Cream,2023-04-25,12,201.33,Store,Cash,0.05,191.2635,QuantityDiscount,ExpiryDateDiscount
+10475,2023-03-17,Glycerine,2023-06-02,16,240.75,App,Visa,0.17,199.8225,AppDiscount,ExpiryDateDiscount
+10476,2023-04-21,Lobster - Base,2023-06-18,6,232.62,Store,Cash,0.035,224.4783,QuantityDiscount,ExpiryDateDiscount
+10477,2023-03-21,Milk - Skim,2023-04-01,16,82.01,Store,Visa,0.145,70.11855,ExpiryDateDiscount,QuantityDiscount
+10478,2023-04-26,Cookie Choc,2023-06-09,14,236.92,Store,Cash,0.115,209.6742,ExpiryDateDiscount,QuantityDiscount
+10479,2023-04-28,Beer - Steamwhistle,2023-07-26,16,64.97,App,Visa,0.125,56.84875,AppDiscount,VisaDiscount
+10480,2023-03-29,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash,0.1,64.565994,ExpiryDateDiscount
+10481,2023-03-15,Chinese Foods - Chicken Wing,2023-06-09,16,215.06,App,Visa,0.125,188.17749,AppDiscount,ExpiryDateDiscount
+10482,2023-05-03,Cranberries - Frozen,2023-05-11,9,215.56,Store,Cash,0.135,186.4594,ExpiryDateDiscount,QuantityDiscount
+10483,2023-04-13,Soup - Campbells Chili,2023-06-11,15,116.4,Store,Cash,0.055,109.998,QuantityDiscount,ExpiryDateDiscount
+10484,2023-05-11,General Purpose Trigger,2023-05-14,9,243.88,Store,Cash,0.16,204.8592,ExpiryDateDiscount,QuantityDiscount
+10485,2023-03-24,Liqueur Banana Ramazzotti,2023-03-26,13,131.39,App,Visa,0.215,103.14115,ExpiryDateDiscount,AppDiscount
+10486,2023-04-21,Bagelers,2023-06-13,16,202.73,Store,Cash,0.085,185.49794,QuantityDiscount,ExpiryDateDiscount
+10487,2023-03-17,Chocolate Bar - Smarties,2023-05-03,6,36.23,Store,Visa,0.095,32.78815,ExpiryDateDiscount,QuantityDiscount
+10488,2023-03-23,Longos - Greek Salad,2023-06-03,16,49.18,Store,Cash,0.345,32.212902,SpecialDayDiscount,ExpiryDateDiscount
+10489,2023-04-28,Beer - Blue Light,2023-07-04,8,38.44,Store,Cash,0.145,32.8662,ExpiryDateDiscount,QuantityDiscount
+10490,2023-05-07,Ice Cream - Super Sandwich,2023-07-07,16,63.29,App,Visa,0.25,47.4675,ExpiryDateDiscount,AppDiscount
+10491,2023-05-05,Bacardi Breezer - Tropical,2023-06-05,11,6.02,App,Visa,0.225,4.6655,ExpiryDateDiscount,AppDiscount
+10492,2023-04-07,Beef - Montreal Smoked Brisket,2023-05-27,15,214.75,App,Visa,0.125,187.90625,AppDiscount,ExpiryDateDiscount
+10493,2023-03-24,Sprouts Dikon,2023-05-18,11,198.74,Store,Cash,0.065,185.8219,QuantityDiscount,ExpiryDateDiscount
+10494,2023-03-13,Pasta - Bauletti Chicken White,2023-05-10,9,210.88,Store,Cash,0.04,202.44481,QuantityDiscount,ExpiryDateDiscount
+10495,2023-04-08,Chicken - Ground,2023-04-29,12,91.7,Store,Cash,0.08,84.364,ExpiryDateDiscount,QuantityDiscount
+10496,2023-04-10,Wine - White French Cross,2023-06-15,14,105.92,Store,Cash,0.16,88.9728,ExpiryDateDiscount,QuantityDiscount
+10497,2023-05-05,Appetizer - Tarragon Chicken,2023-06-18,12,217.6,Store,Cash,0.12,191.488,ExpiryDateDiscount,QuantityDiscount
+10498,2023-05-06,Phyllo Dough,2023-06-18,7,249.92,Store,Cash,0.115,221.1792,ExpiryDateDiscount,QuantityDiscount
+10499,2023-04-14,Cheese - Camembert,2023-05-21,6,75.17,App,Visa,0.165,62.76695,ExpiryDateDiscount,CheeseDiscount
+10500,2023-05-01,Jam - Raspberry,2023-05-30,3,71.6,Store,Cash,0.01,70.883995,ExpiryDateDiscount
+10501,2023-05-12,Wine - Pinot Noir Mondavi Coastal,2023-05-16,15,114.42,Store,Cash,0.18,93.8244,ExpiryDateDiscount,QuantityDiscount
+10502,2023-05-04,Creamers - 10%,2023-07-13,16,182.77,App,Visa,0.205,145.30215,ExpiryDateDiscount,AppDiscount
+10503,2023-03-20,Wine - Chablis 2003 Champs,2023-05-26,10,88.12,Store,Cash,0.155,74.4614,ExpiryDateDiscount,QuantityDiscount
+10504,2023-03-19,Wine - Rosso Del Veronese Igt,2023-06-17,10,110.96,Store,Cash,0.06,104.3024,QuantityDiscount,WineDiscount
+10505,2023-04-25,Filter - Coffee,2023-06-27,12,48.79,Store,Visa,0.175,40.25175,ExpiryDateDiscount,QuantityDiscount
+10506,2023-03-13,Ice Cream Bar - Oreo Sandwich,2023-04-15,7,233.66,Store,Cash,0.165,195.10611,ExpiryDateDiscount,QuantityDiscount
+10507,2023-03-23,Ham - Proscuitto,2023-06-13,14,162.01,Store,Visa,0.295,114.21705,SpecialDayDiscount,ExpiryDateDiscount
+10508,2023-04-02,Juice - Apple 341 Ml,2023-04-06,9,65.97,App,Visa,0.18,54.0954,ExpiryDateDiscount,AppDiscount
+10509,2023-04-23,Magnotta Bel Paese Red,2023-06-28,4,9.69,App,Visa,0.15,8.2365,ExpiryDateDiscount,AppDiscount
+10510,2023-04-12,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash,0.21,88.408905,ExpiryDateDiscount
+10511,2023-03-14,Mix Pina Colada,2023-05-18,11,132.35,Store,Visa,0.165,110.51225,ExpiryDateDiscount,QuantityDiscount
+10512,2023-03-29,Chicken - Whole Roasting,2023-06-09,3,226.77,App,Visa,0.12,199.5576,ExpiryDateDiscount,AppDiscount
+10513,2023-04-29,Sprouts - Peppercress,2023-07-28,15,83.76,App,Visa,0.1,75.384,AppDiscount,VisaDiscount
+10514,2023-03-17,Sugar Thermometer,2023-06-08,9,35.86,Store,Cash,0.065,33.529102,ExpiryDateDiscount,QuantityDiscount
+10515,2023-05-02,Butter - Pod,2023-05-25,9,6.64,App,Visa,0.085,6.0755997,AppDiscount,ExpiryDateDiscount
+10516,2023-05-12,Garam Marsala,2023-06-09,8,42.36,Store,Cash,0.035,40.8774,QuantityDiscount,ExpiryDateDiscount
+10517,2023-05-08,Mudslide,2023-06-09,7,128.4,Store,Cash,0.17,106.572,ExpiryDateDiscount,QuantityDiscount
+10518,2023-03-17,Ecolab - Ster Bac,2023-06-03,7,127.84,Store,Visa,0.09,116.3344,ExpiryDateDiscount,QuantityDiscount
+10519,2023-05-01,Noodles - Cellophane Thin,2023-07-14,17,171.0,Store,Cash,0.135,147.915,ExpiryDateDiscount,QuantityDiscount
+10520,2023-04-16,Appetizer - Southwestern,2023-06-30,11,124.86,Store,Cash,0.115,110.5011,ExpiryDateDiscount,QuantityDiscount
+10521,2023-04-21,Thyme - Dried,2023-06-29,3,85.66,App,Visa,0.135,74.0959,ExpiryDateDiscount,AppDiscount
+10522,2023-04-19,Coffee - French Vanilla Frothy,2023-05-03,4,181.44,Store,Visa,0.105,162.38881,ExpiryDateDiscount,VisaDiscount
+10524,2023-04-21,Sour Puss - Tangerine,2023-06-20,9,187.57,Store,Visa,0.05,178.19151,QuantityDiscount,VisaDiscount
+10525,2023-03-28,Napkin Colour,2023-06-01,3,95.55,Store,Cash,0.26,70.707,ExpiryDateDiscount
+10526,2023-03-16,Passion Fruit,2023-04-13,5,47.25,Store,Visa,0.035,45.59625,VisaDiscount,ExpiryDateDiscount
+10527,2023-04-21,Beef - Tenderloin Tails,2023-06-25,6,216.68,App,Visa,0.18,177.6776,ExpiryDateDiscount,AppDiscount
+10528,2023-05-06,Calypso - Strawberry Lemonade,2023-05-28,8,136.78,App,Visa,0.09,124.469795,AppDiscount,ExpiryDateDiscount
+10529,2023-05-03,Soupfoamcont12oz 112con,2023-07-21,13,60.32,Store,Visa,0.095,54.5896,ExpiryDateDiscount,QuantityDiscount
+10530,2023-03-14,Fudge - Cream Fudge,2023-03-23,12,225.99,App,Visa,0.18,185.3118,ExpiryDateDiscount,AppDiscount
+10531,2023-05-10,Gingerale - Diet - Schweppes,2023-05-23,10,193.2,Store,Visa,0.12,170.01599,ExpiryDateDiscount,QuantityDiscount
+10532,2023-05-05,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash,0.16,43.159203,ExpiryDateDiscount
+10533,2023-04-20,Calypso - Black Cherry Lemonade,2023-05-12,12,8.31,Store,Cash,0.075,7.6867504,ExpiryDateDiscount,QuantityDiscount
+10534,2023-05-07,Puree - Raspberry,2023-05-23,10,134.58,Store,Cash,0.105,120.449104,ExpiryDateDiscount,QuantityDiscount
+10535,2023-03-17,Pate - Cognac,2023-04-28,1,70.2,Store,Cash,0.19,56.861996,ExpiryDateDiscount
+10536,2023-04-07,Hipnotiq Liquor,2023-06-04,16,22.23,Store,Cash,0.06,20.8962,QuantityDiscount,ExpiryDateDiscount
+10537,2023-04-04,Icecream - Dstk Cml And Fdg,2023-04-12,3,184.39,Store,Cash,0.22,143.8242,ExpiryDateDiscount
+10538,2023-04-23,Muffin Mix - Carrot,2023-05-12,12,228.89,Store,Visa,0.09,208.2899,ExpiryDateDiscount,QuantityDiscount
+10539,2023-04-25,Mushroom - Morels Dry,2023-06-14,15,50.24,Store,Visa,0.1,45.216003,ExpiryDateDiscount,QuantityDiscount
+10540,2023-04-29,Foie Gras,2023-07-22,6,28.35,App,Visa,0.085,25.94025,AppDiscount,ExpiryDateDiscount
+10541,2023-04-02,Pepperoni Slices,2023-04-30,8,130.02,Store,Visa,0.05,123.519005,QuantityDiscount,VisaDiscount
+10542,2023-03-13,Cake - Sheet Strawberry,2023-05-03,11,218.23,Store,Cash,0.085,199.68045,ExpiryDateDiscount,QuantityDiscount
+10543,2023-04-25,Mahi Mahi,2023-05-22,6,17.81,App,Visa,0.075,16.474249,AppDiscount,VisaDiscount
+10544,2023-03-13,Beans - Yellow,2023-04-14,17,138.42,Store,Cash,0.195,111.4281,ExpiryDateDiscount,QuantityDiscount
+10545,2023-04-17,Mushrooms - Honey,2023-06-05,4,144.18,App,Visa,0.08,132.6456,ExpiryDateDiscount,AppDiscount
+10546,2023-04-23,Longos - Lasagna Beef,2023-05-27,12,236.92,Store,Cash,0.165,197.8282,ExpiryDateDiscount,QuantityDiscount
+10547,2023-04-26,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash,0.08,199.2352,ExpiryDateDiscount
+10548,2023-05-04,Veal - Provimi Inside,2023-07-01,14,166.26,Store,Cash,0.05,157.94699,QuantityDiscount,ExpiryDateDiscount
+10549,2023-04-22,Olive - Spread Tapenade,2023-06-03,6,188.99,Store,Visa,0.115,167.25615,ExpiryDateDiscount,QuantityDiscount
+10550,2023-04-04,Foil - Round Foil,2023-04-29,9,135.32,Store,Cash,0.05,128.554,ExpiryDateDiscount,QuantityDiscount
+10551,2023-03-23,Scallops - U - 10,2023-04-29,16,15.66,Store,Cash,0.37,9.8658,SpecialDayDiscount,ExpiryDateDiscount
+10552,2023-04-06,Bag - Bread White Plain,2023-05-10,16,108.67,Store,Cash,0.18,89.1094,ExpiryDateDiscount,QuantityDiscount
+10553,2023-05-06,Carbonated Water - Raspberry,2023-07-21,6,111.15,App,Visa,0.125,97.25625,ExpiryDateDiscount,AppDiscount
+10554,2023-03-13,Wine - Segura Viudas Aria Brut,2023-04-12,12,70.29,Store,Visa,0.06,66.0726,QuantityDiscount,WineDiscount
+10555,2023-04-22,Amarula Cream,2023-04-28,13,50.37,App,Visa,0.195,40.547848,ExpiryDateDiscount,AppDiscount
+10556,2023-04-23,Salmon - Atlantic No Skin,2023-05-31,10,206.7,App,Visa,0.16,173.62799,ExpiryDateDiscount,AppDiscount
+10557,2023-04-19,Sugar Thermometer,2023-06-14,14,196.59,Store,Cash,0.055,185.77754,QuantityDiscount,ExpiryDateDiscount
+10558,2023-04-03,Liqueur - Melon,2023-04-18,11,212.54,Store,Cash,0.11,189.1606,ExpiryDateDiscount,QuantityDiscount
+10559,2023-04-25,Madeira,2023-07-18,14,129.0,Store,Cash,0.07,119.97,ExpiryDateDiscount,QuantityDiscount
+10560,2023-04-27,Flower - Commercial Spider,2023-07-09,4,134.57,Store,Visa,0.115,119.09446,ExpiryDateDiscount,VisaDiscount
+10561,2023-03-19,Capon - Breast Double Wing On,2023-05-23,6,32.99,App,Visa,0.18,27.051802,ExpiryDateDiscount,AppDiscount
+10562,2023-04-11,Smoked Tongue,2023-06-19,11,116.12,Store,Visa,0.145,99.2826,ExpiryDateDiscount,QuantityDiscount
+10563,2023-04-17,Apple - Fuji,2023-05-17,2,236.66,App,Visa,0.175,195.2445,ExpiryDateDiscount,AppDiscount
+10564,2023-04-20,Pork - Bacon Double Smoked,2023-06-26,17,160.41,App,Visa,0.22,125.119804,ExpiryDateDiscount,AppDiscount
+10565,2023-04-27,Island Oasis - Peach Daiquiri,2023-06-14,8,21.59,App,Visa,0.11,19.2151,ExpiryDateDiscount,AppDiscount
+10566,2023-04-29,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash,0.13,71.9925,ExpiryDateDiscount
+10567,2023-04-25,Wine - Duboeuf Beaujolais,2023-07-09,8,231.85,Store,Cash,0.105,207.50575,ExpiryDateDiscount,WineDiscount
+10568,2023-04-08,Soup - Knorr Classic Can. Chili,2023-05-21,6,75.73,Store,Visa,0.11,67.399704,ExpiryDateDiscount,QuantityDiscount
+10569,2023-04-24,Water - Spring Water 355 Ml,2023-07-08,9,246.21,App,Visa,0.13,214.20271,ExpiryDateDiscount,AppDiscount
+10570,2023-03-23,Onions - Green,2023-05-02,17,71.44,App,Visa,0.355,46.0788,SpecialDayDiscount,ExpiryDateDiscount
+10571,2023-04-18,Rice - Jasmine Sented,2023-06-24,13,145.71,Store,Cash,0.155,123.124954,ExpiryDateDiscount,QuantityDiscount
+10572,2023-04-29,Snapple Lemon Tea,2023-07-03,13,90.59,Store,Visa,0.165,75.64265,ExpiryDateDiscount,QuantityDiscount
+10573,2023-05-11,Nut - Cashews Whole Raw,2023-06-06,9,123.2,Store,Visa,0.05,117.03999,QuantityDiscount,VisaDiscount
+10574,2023-04-07,Bread - Triangle White,2023-05-09,15,181.13,App,Visa,0.215,142.18706,ExpiryDateDiscount,AppDiscount
+10575,2023-04-26,Pasta - Rotini Colour Dry,2023-07-17,4,200.73,Store,Visa,0.07,186.6789,ExpiryDateDiscount,VisaDiscount
+10576,2023-03-29,Milk - Skim,2023-04-10,4,230.51,Store,Cash,0.18,189.01819,ExpiryDateDiscount
+10577,2023-05-01,Beans - Green,2023-07-05,15,112.63,App,Visa,0.205,89.54085,ExpiryDateDiscount,AppDiscount
+10578,2023-04-21,Longos - Lasagna Beef,2023-05-14,9,247.62,Store,Cash,0.06,232.7628,ExpiryDateDiscount,QuantityDiscount
+10579,2023-04-27,Bread - Olive Dinner Roll,2023-06-04,8,2.23,App,Visa,0.16,1.8732,ExpiryDateDiscount,AppDiscount
+10580,2023-03-19,Soup - French Can Pea,2023-06-09,10,86.47,Store,Visa,0.08,79.5524,ExpiryDateDiscount,QuantityDiscount
+10581,2023-03-16,Corn Meal,2023-03-17,16,24.53,Store,Cash,0.195,19.74665,ExpiryDateDiscount,QuantityDiscount
+10582,2023-04-17,Jerusalem Artichoke,2023-06-15,4,203.16,Store,Visa,0.03,197.0652,VisaDiscount,ExpiryDateDiscount
+10583,2023-05-12,Ocean Spray - Kiwi Strawberry,2023-07-31,11,175.29,Store,Visa,0.09,159.5139,ExpiryDateDiscount,QuantityDiscount
+10584,2023-04-06,Silicone Parch. 16.3x24.3,2023-06-04,2,38.77,Store,Visa,0.03,37.6069,VisaDiscount,ExpiryDateDiscount
+10585,2023-05-06,Sachet,2023-05-14,5,81.34,Store,Cash,0.22,63.445198,ExpiryDateDiscount
+10586,2023-03-19,Spaghetti Squash,2023-03-30,9,10.77,Store,Cash,0.12,9.4776,ExpiryDateDiscount,QuantityDiscount
+10587,2023-04-11,Coffee Beans - Chocolate,2023-06-02,12,102.37,Store,Visa,0.075,94.69225,ExpiryDateDiscount,QuantityDiscount
+10588,2023-04-26,Bread - Flat Bread,2023-05-29,13,245.49,App,Visa,0.21,193.9371,ExpiryDateDiscount,AppDiscount
+10589,2023-04-20,Egg Patty Fried,2023-05-02,7,182.62,Store,Cash,0.115,161.6187,ExpiryDateDiscount,QuantityDiscount
+10590,2023-04-09,Grenadillo,2023-07-08,7,70.22,App,Visa,0.075,64.9535,AppDiscount,VisaDiscount
+10591,2023-03-30,Island Oasis - Peach Daiquiri,2023-06-04,13,67.7,Store,Cash,0.16,56.867996,ExpiryDateDiscount,QuantityDiscount
+10592,2023-04-12,Marsala - Sperone Fine D.o.c.,2023-04-22,12,113.77,Store,Cash,0.135,98.41105,ExpiryDateDiscount,QuantityDiscount
+10593,2023-04-28,Snapple - Mango Maddness,2023-05-06,1,111.28,Store,Cash,0.22,86.7984,ExpiryDateDiscount
+10594,2023-03-21,Wine - Sake,2023-04-09,11,125.98,App,Visa,0.13,109.6026,AppDiscount,ExpiryDateDiscount
+10595,2023-05-07,Bread - Sticks Thin Plain,2023-05-30,16,133.65,Store,Cash,0.085,122.28974,QuantityDiscount,ExpiryDateDiscount
+10596,2023-04-28,Sugar - Fine,2023-05-02,12,109.82,Store,Cash,0.165,91.6997,ExpiryDateDiscount,QuantityDiscount
+10597,2023-04-15,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash,0.29,168.9019,ExpiryDateDiscount
+10598,2023-04-24,Trout - Rainbow Fresh,2023-07-23,12,185.12,Store,Cash,0.04,177.7152,QuantityDiscount,ExpiryDateDiscount
+10599,2023-03-29,Chutney Sauce - Mango,2023-06-13,8,216.72,Store,Visa,0.1,195.048,ExpiryDateDiscount,QuantityDiscount
+10600,2023-04-01,Wine - Placido Pinot Grigo,2023-06-24,8,176.57,App,Visa,0.085,161.56155,AppDiscount,ExpiryDateDiscount
+10601,2023-04-02,Lobster - Live,2023-04-29,13,186.23,Store,Cash,0.05,176.9185,QuantityDiscount,ExpiryDateDiscount
+10602,2023-03-15,Pastry - Key Limepoppy Seed Tea,2023-03-20,4,112.38,Store,Visa,0.15,95.522995,ExpiryDateDiscount,VisaDiscount
+10603,2023-03-19,Pepper - Julienne Frozen,2023-04-19,2,236.64,Store,Visa,0.175,195.228,ExpiryDateDiscount,VisaDiscount
+10604,2023-04-28,Tomatoes,2023-06-16,14,8.53,App,Visa,0.13,7.4210997,AppDiscount,ExpiryDateDiscount
+10605,2023-03-20,Water - Evian 355 Ml,2023-04-04,17,143.49,Store,Visa,0.125,125.55376,ExpiryDateDiscount,QuantityDiscount
+10606,2023-04-13,Beer - Maudite,2023-07-11,15,176.36,Store,Cash,0.06,165.7784,QuantityDiscount,ExpiryDateDiscount
+10607,2023-05-01,Bouillion - Fish,2023-07-30,6,91.44,Store,Cash,0.03,88.6968,QuantityDiscount,ExpiryDateDiscount
+10608,2023-04-13,Edible Flower - Mixed,2023-06-17,11,58.36,App,Visa,0.205,46.396202,ExpiryDateDiscount,AppDiscount
+10609,2023-04-13,Split Peas - Green Dry,2023-04-19,2,204.16,App,Visa,0.145,174.55681,ExpiryDateDiscount,AppDiscount
+10610,2023-05-05,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash,0.26,3.33,ExpiryDateDiscount
+10611,2023-04-09,Pickle - Dill,2023-04-22,13,130.2,App,Visa,0.16,109.368,ExpiryDateDiscount,AppDiscount
+10612,2023-03-30,Truffle Cups - Red,2023-04-04,13,143.75,App,Visa,0.2,115.0,ExpiryDateDiscount,AppDiscount
+10613,2023-04-13,Broom - Angled,2023-06-23,17,243.87,Store,Cash,0.15,207.28949,ExpiryDateDiscount,QuantityDiscount
+10614,2023-03-30,Juice - Tomato 48 Oz,2023-06-26,6,15.79,Store,Visa,0.05,15.0005,QuantityDiscount,VisaDiscount
+10615,2023-04-12,Sauce - Plum,2023-07-04,13,83.88,Store,Cash,0.075,77.589,ExpiryDateDiscount,QuantityDiscount
+10616,2023-04-16,Wine - Red Cabernet Merlot,2023-05-26,5,185.28,Store,Visa,0.125,162.12,ExpiryDateDiscount,WineDiscount
+10617,2023-05-02,Cheese - Brie Cups 125g,2023-05-30,14,96.63,App,Visa,0.125,84.55125,AppDiscount,CheeseDiscount
+10618,2023-03-26,Horseradish Root,2023-06-05,15,10.34,App,Visa,0.175,8.5305,ExpiryDateDiscount,AppDiscount
+10619,2023-04-23,Turnip - Wax,2023-06-15,15,94.8,Store,Cash,0.085,86.742004,QuantityDiscount,ExpiryDateDiscount
+10620,2023-03-23,Cumin - Ground,2023-06-20,9,20.97,Store,Visa,0.275,15.20325,SpecialDayDiscount,QuantityDiscount
+10621,2023-04-02,Yogurt - Blueberry 175 Gr,2023-07-01,8,27.4,Store,Cash,0.03,26.578,QuantityDiscount,ExpiryDateDiscount
+10622,2023-04-06,Cinnamon Rolls,2023-04-17,5,71.47,Store,Visa,0.12,62.8936,ExpiryDateDiscount,VisaDiscount
+10623,2023-05-12,Wine - Vineland Estate Semi - Dry,2023-05-19,11,127.04,Store,Cash,0.15,107.984,ExpiryDateDiscount,QuantityDiscount
+10624,2023-03-30,Dome Lid Clear P92008h,2023-04-19,2,122.41,Store,Cash,0.1,110.16901,ExpiryDateDiscount
+10625,2023-03-19,Beef - Cow Feet Split,2023-04-24,7,151.37,Store,Cash,0.15,128.66449,ExpiryDateDiscount,QuantityDiscount
+10626,2023-04-02,Mahi Mahi,2023-05-03,1,134.35,App,Visa,0.17,111.510506,ExpiryDateDiscount,AppDiscount
+10627,2023-03-27,Horseradish Root,2023-04-18,6,190.46,Store,Visa,0.065,178.08011,ExpiryDateDiscount,QuantityDiscount
+10628,2023-04-21,Bread - Sour Batard,2023-07-14,5,140.94,App,Visa,0.06,132.4836,ExpiryDateDiscount,AppDiscount
+10629,2023-04-15,Sprite Diet - 355ml,2023-06-11,16,135.29,App,Visa,0.125,118.378746,AppDiscount,VisaDiscount
+10630,2023-03-20,Eggplant Italian,2023-04-11,16,141.4,Store,Cash,0.09,128.674,QuantityDiscount,ExpiryDateDiscount
+10631,2023-04-13,Pasta - Bauletti Chicken White,2023-06-05,8,233.12,Store,Cash,0.06,219.1328,ExpiryDateDiscount,QuantityDiscount
+10632,2023-05-01,Pastry - Key Limepoppy Seed Tea,2023-05-21,8,15.42,Store,Cash,0.075,14.2635,ExpiryDateDiscount,QuantityDiscount
+10633,2023-04-17,Veal - Tenderloin Untrimmed,2023-05-10,14,191.97,Store,Cash,0.07,178.5321,ExpiryDateDiscount,QuantityDiscount
+10634,2023-05-12,Bag - Regular Kraft 20 Lb,2023-07-03,11,24.42,App,Visa,0.12,21.4896,AppDiscount,ExpiryDateDiscount
+10635,2023-04-11,Crackers - Soda / Saltins,2023-06-12,13,54.93,Store,Cash,0.18,45.0426,ExpiryDateDiscount,QuantityDiscount
+10636,2023-03-29,Oysters - Smoked,2023-06-01,17,103.28,Store,Cash,0.185,84.1732,ExpiryDateDiscount,QuantityDiscount
+10637,2023-05-06,Water - Mineral Natural,2023-05-24,5,169.85,Store,Cash,0.12,149.468,ExpiryDateDiscount
+10638,2023-03-21,Beef - Salted,2023-06-12,4,71.58,Store,Cash,0.08,65.8536,ExpiryDateDiscount
+10639,2023-04-07,Wine - Baron De Rothschild,2023-05-25,1,62.44,App,Visa,0.085,57.1326,ExpiryDateDiscount,WineDiscount
+10640,2023-05-12,Juice - Pineapple 341 Ml,2023-08-04,2,146.2,App,Visa,0.06,137.428,ExpiryDateDiscount,AppDiscount
+10641,2023-05-04,Ice Cream Bar - Oreo Sandwich,2023-05-18,5,111.87,Store,Visa,0.105,100.12365,ExpiryDateDiscount,VisaDiscount
+10642,2023-04-07,Beef - Roasted Cooked,2023-05-11,14,41.46,Store,Cash,0.165,34.6191,ExpiryDateDiscount,QuantityDiscount
+10643,2023-03-29,Dates,2023-06-06,1,191.02,Store,Cash,0.22,148.9956,ExpiryDateDiscount
+10644,2023-04-19,Spice - Onion Powder Granulated,2023-07-18,6,43.22,Store,Cash,0.03,41.9234,QuantityDiscount,ExpiryDateDiscount
+10645,2023-04-11,Creme De Cacao White,2023-05-07,13,71.63,Store,Visa,0.06,67.3322,QuantityDiscount,VisaDiscount
+10646,2023-03-23,Oil - Olive,2023-05-30,7,11.72,Store,Cash,0.365,7.4422,SpecialDayDiscount,ExpiryDateDiscount
+10647,2023-03-29,Wine - White Concha Y Toro,2023-04-14,8,116.44,Store,Visa,0.095,105.378204,ExpiryDateDiscount,WineDiscount
+10648,2023-03-24,Wine - Bourgogne 2002 La,2023-05-03,2,164.81,Store,Cash,0.13,143.3847,ExpiryDateDiscount,WineDiscount
+10649,2023-04-17,Bread - Rye,2023-05-08,12,158.12,App,Visa,0.12,139.1456,AppDiscount,ExpiryDateDiscount
+10650,2023-03-24,Filter - Coffee,2023-04-19,10,103.78,App,Visa,0.075,95.9965,AppDiscount,VisaDiscount
+10651,2023-05-12,Pasta - Lasagne Fresh,2023-06-30,16,179.14,Store,Cash,0.11,159.4346,ExpiryDateDiscount,QuantityDiscount
+10652,2023-05-07,Gherkin,2023-06-15,5,176.37,Store,Cash,0.22,137.5686,ExpiryDateDiscount
+10653,2023-04-22,Swordfish Loin Portions,2023-05-08,11,14.82,Store,Cash,0.105,13.2639,ExpiryDateDiscount,QuantityDiscount
+10654,2023-05-02,Sausage - Chorizo,2023-07-31,15,38.38,App,Visa,0.1,34.542,AppDiscount,VisaDiscount
+10655,2023-04-21,Sauce - Soy Low Sodium - 3.87l,2023-05-24,17,112.69,Store,Cash,0.185,91.842354,ExpiryDateDiscount,QuantityDiscount
+10656,2023-04-18,Hinge W Undercut,2023-05-07,15,116.7,Store,Visa,0.105,104.446495,ExpiryDateDiscount,QuantityDiscount
+10657,2023-04-15,Wine - Fino Tio Pepe Gonzalez,2023-07-08,11,121.46,App,Visa,0.11,108.099396,AppDiscount,ExpiryDateDiscount
+10658,2023-04-06,Container - Foam Dixie 12 Oz,2023-05-05,3,187.58,App,Visa,0.05,178.201,AppDiscount,VisaDiscount
+10659,2023-04-10,Pastry - Baked Cinnamon Stick,2023-05-04,11,226.12,Store,Cash,0.065,211.4222,QuantityDiscount,ExpiryDateDiscount
+10660,2023-04-28,Appetizer - Crab And Brie,2023-07-16,10,87.97,Store,Cash,0.095,79.612854,ExpiryDateDiscount,QuantityDiscount
+10661,2023-05-07,Carbonated Water - White Grape,2023-05-28,14,241.26,Store,Cash,0.08,221.9592,ExpiryDateDiscount,QuantityDiscount
+10662,2023-03-25,Wine - Vineland Estate Semi - Dry,2023-06-14,3,211.55,App,Visa,0.075,195.68375,ExpiryDateDiscount,WineDiscount
+10663,2023-04-02,Tomatoes - Yellow Hot House,2023-04-27,1,247.74,Store,Visa,0.05,235.35301,ExpiryDateDiscount,VisaDiscount
+10664,2023-04-27,Ice Cream - Turtles Stick Bar,2023-06-03,4,21.62,App,Visa,0.14,18.5932,ExpiryDateDiscount,AppDiscount
+10665,2023-05-01,Lobster - Canned Premium,2023-05-22,3,213.03,App,Visa,0.07,198.1179,ExpiryDateDiscount,AppDiscount
+10666,2023-03-26,Tomatoes - Heirloom,2023-05-28,7,36.84,Store,Visa,0.165,30.7614,ExpiryDateDiscount,QuantityDiscount
+10667,2023-05-03,Bread - Sour Batard,2023-05-12,4,233.47,Store,Cash,0.21,184.4413,ExpiryDateDiscount
+10668,2023-04-27,Cheese - Briedanish,2023-05-31,17,138.49,Store,Cash,0.18,113.561806,ExpiryDateDiscount,CheeseDiscount
+10669,2023-05-10,Oil - Sunflower,2023-05-26,14,38.56,Store,Visa,0.105,34.5112,ExpiryDateDiscount,QuantityDiscount
+10670,2023-04-27,Milkettes - 2%,2023-07-11,17,166.49,Store,Cash,0.13,144.8463,ExpiryDateDiscount,QuantityDiscount
+10671,2023-03-25,Mushroom - Shitake Dry,2023-05-11,6,205.6,Store,Visa,0.095,186.06801,ExpiryDateDiscount,QuantityDiscount
+10672,2023-03-24,Langers - Ruby Red Grapfruit,2023-06-04,17,238.93,Store,Cash,0.145,204.28514,ExpiryDateDiscount,QuantityDiscount
+10673,2023-05-07,Coffee - Frthy Coffee Crisp,2023-05-20,14,227.66,Store,Cash,0.12,200.3408,ExpiryDateDiscount,QuantityDiscount
+10674,2023-03-30,Wine - Touraine Azay - Le - Rideau,2023-04-12,9,199.39,Store,Visa,0.11,177.45709,ExpiryDateDiscount,WineDiscount
+10675,2023-03-25,Nantucket - 518ml,2023-05-26,13,164.42,App,Visa,0.22,128.2476,ExpiryDateDiscount,AppDiscount
+10676,2023-04-23,Bar Mix - Lime,2023-06-01,10,86.94,Store,Cash,0.14,74.7684,ExpiryDateDiscount,QuantityDiscount
+10677,2023-04-02,Brandy Apricot,2023-06-27,5,94.28,Store,Cash,0.05,89.566,ExpiryDateDiscount
+10678,2023-05-09,Bread - English Muffin,2023-05-15,12,140.76,Store,Cash,0.155,118.94219,ExpiryDateDiscount,QuantityDiscount
+10679,2023-04-03,Chevril,2023-05-29,11,49.01,App,Visa,0.1,44.108997,AppDiscount,VisaDiscount
+10680,2023-04-28,Cocoa Feuilletine,2023-05-19,4,47.61,Store,Cash,0.09,43.3251,ExpiryDateDiscount
+10681,2023-03-18,Spinach - Packaged,2023-04-10,2,227.38,Store,Cash,0.07,211.46341,ExpiryDateDiscount
+10682,2023-05-11,Tea - Jasmin Green,2023-07-05,6,67.86,Store,Cash,0.055,64.1277,ExpiryDateDiscount,QuantityDiscount
+10683,2023-05-06,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash,0.29,166.9423,ExpiryDateDiscount
+10684,2023-03-27,Onions - Cippolini,2023-06-02,15,178.41,App,Visa,0.195,143.62006,ExpiryDateDiscount,AppDiscount
+10685,2023-03-21,Wine - Magnotta - Cab Franc,2023-05-14,17,177.36,Store,Cash,0.085,162.2844,QuantityDiscount,ExpiryDateDiscount
+10686,2023-03-25,Chicken - Tenderloin,2023-04-26,15,96.03,Store,Cash,0.195,77.304146,ExpiryDateDiscount,QuantityDiscount
+10687,2023-04-15,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash,0.05,32.5755,ExpiryDateDiscount
+10688,2023-03-20,Wine - Vovray Sec Domaine Huet,2023-05-12,3,156.18,Store,Cash,0.065,146.02829,ExpiryDateDiscount,WineDiscount
+10689,2023-04-05,Lime Cordial - Roses,2023-05-19,11,207.53,App,Visa,0.155,175.36285,ExpiryDateDiscount,AppDiscount
+10690,2023-05-10,Muffin Hinge 117n,2023-07-12,8,211.66,Store,Visa,0.165,176.7361,ExpiryDateDiscount,QuantityDiscount
+10691,2023-04-28,Beer - True North Lager,2023-05-15,17,189.56,Store,Cash,0.115,167.7606,ExpiryDateDiscount,QuantityDiscount
+10692,2023-03-19,Wine - Red Pinot Noir Chateau,2023-05-09,6,194.58,Store,Cash,0.075,179.9865,ExpiryDateDiscount,WineDiscount
+10693,2023-03-28,Tomato Puree,2023-06-05,17,85.62,Store,Cash,0.16,71.9208,ExpiryDateDiscount,QuantityDiscount
+10694,2023-04-17,Pork - Ham Virginia,2023-07-01,17,137.5,App,Visa,0.18,112.75,AppDiscount,ExpiryDateDiscount
+10695,2023-04-03,Jerusalem Artichoke,2023-06-15,16,105.14,App,Visa,0.19,85.1634,AppDiscount,ExpiryDateDiscount
+10696,2023-04-20,Wine - Touraine Azay - Le - Rideau,2023-06-08,7,64.66,App,Visa,0.105,57.870705,ExpiryDateDiscount,AppDiscount
+10697,2023-04-20,Corn - Cream Canned,2023-06-14,7,39.27,Store,Cash,0.05,37.3065,ExpiryDateDiscount,QuantityDiscount
+10698,2023-03-15,Banana - Green,2023-05-13,1,125.19,App,Visa,0.05,118.930504,AppDiscount,VisaDiscount
+10699,2023-03-26,Wine - White Ej,2023-05-29,15,212.16,App,Visa,0.21,167.6064,ExpiryDateDiscount,AppDiscount
+10700,2023-04-14,Beer - Fruli,2023-06-27,13,246.13,App,Visa,0.16,206.7492,ExpiryDateDiscount,AppDiscount
+10701,2023-03-26,Wine - Casillero Del Diablo,2023-04-03,2,56.7,App,Visa,0.135,49.0455,ExpiryDateDiscount,WineDiscount
+10702,2023-03-13,Whmis Spray Bottle Graduated,2023-04-20,10,140.94,App,Visa,0.165,117.6849,ExpiryDateDiscount,AppDiscount
+10703,2023-04-02,Shrimp - 16 - 20 Cooked Peeled,2023-05-27,10,220.53,Store,Cash,0.06,207.2982,QuantityDiscount,ExpiryDateDiscount
+10704,2023-04-15,Water - Mineral Natural,2023-07-09,14,142.72,Store,Visa,0.065,133.4432,QuantityDiscount,ExpiryDateDiscount
+10705,2023-03-30,Versatainer Nc - 8288,2023-06-22,7,82.05,Store,Cash,0.06,77.12701,ExpiryDateDiscount,QuantityDiscount
+10706,2023-05-06,Wine - Tribal Sauvignon,2023-07-17,15,57.09,Store,Visa,0.145,48.81195,ExpiryDateDiscount,QuantityDiscount
+10707,2023-04-16,Beef - Diced,2023-05-17,12,210.3,Store,Cash,0.18,172.446,ExpiryDateDiscount,QuantityDiscount
+10708,2023-05-06,Wine - Shiraz South Eastern,2023-07-31,16,172.34,Store,Cash,0.075,159.41449,QuantityDiscount,ExpiryDateDiscount
+10709,2023-04-07,Fruit Salad Deluxe,2023-06-11,14,141.24,App,Visa,0.205,112.285805,ExpiryDateDiscount,AppDiscount
+10710,2023-04-06,Pepper - Paprika Spanish,2023-05-28,7,72.15,App,Visa,0.09,65.6565,AppDiscount,ExpiryDateDiscount
+10711,2023-04-29,Squid - Breaded,2023-06-07,6,2.65,Store,Cash,0.13,2.3055,ExpiryDateDiscount,QuantityDiscount
+10712,2023-03-19,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash,0.2,183.784,ExpiryDateDiscount
+10713,2023-04-28,Salmon - Atlantic No Skin,2023-07-09,13,83.34,Store,Visa,0.13,72.5058,ExpiryDateDiscount,QuantityDiscount
+10714,2023-04-24,Juice - Cranberry 341 Ml,2023-07-09,6,31.89,App,Visa,0.125,27.90375,ExpiryDateDiscount,AppDiscount
+10715,2023-04-26,Skirt - 29 Foot,2023-07-02,7,6.35,App,Visa,0.17,5.2704997,ExpiryDateDiscount,AppDiscount
+10716,2023-03-17,Lamb - Whole Frozen,2023-04-04,9,240.21,Store,Cash,0.085,219.79216,ExpiryDateDiscount,QuantityDiscount
+10717,2023-04-10,Cheese - Havarti Roasted Garlic,2023-05-15,3,239.62,App,Visa,0.175,197.6865,ExpiryDateDiscount,CheeseDiscount
+10718,2023-05-10,Cheese - Goat,2023-05-15,14,65.09,App,Visa,0.2,52.072,ExpiryDateDiscount,AppDiscount
+10719,2023-03-27,Temperature Recording Station,2023-04-03,13,156.91,Store,Visa,0.15,133.3735,ExpiryDateDiscount,QuantityDiscount
+10720,2023-05-07,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash,0.03,207.5218,ExpiryDateDiscount
+10721,2023-03-18,Shallots,2023-05-22,4,245.4,App,Visa,0.155,207.36299,ExpiryDateDiscount,AppDiscount
+10722,2023-05-05,Bar Mix - Lemon,2023-05-30,6,109.11,Store,Visa,0.05,103.6545,ExpiryDateDiscount,QuantityDiscount
+10723,2023-04-16,Vinegar - Balsamic White,2023-05-18,3,128.55,Store,Visa,0.165,107.33926,ExpiryDateDiscount,VisaDiscount
+10724,2023-03-28,Pepper - Chipotle Canned,2023-05-05,9,163.06,Store,Visa,0.14,140.2316,ExpiryDateDiscount,QuantityDiscount
+10725,2023-04-22,Cheese - Marble,2023-05-12,3,40.72,Store,Cash,0.1,36.648003,ExpiryDateDiscount,CheeseDiscount
+10726,2023-04-02,Sauce - Ranch Dressing,2023-04-05,5,138.93,App,Visa,0.16,116.701195,ExpiryDateDiscount,AppDiscount
+10727,2023-03-17,Milk - Chocolate 250 Ml,2023-05-24,1,138.04,App,Visa,0.14,118.71439,ExpiryDateDiscount,AppDiscount
+10728,2023-04-11,Soup - Base Broth Chix,2023-04-13,9,226.77,Store,Cash,0.165,189.35295,ExpiryDateDiscount,QuantityDiscount
+10729,2023-03-13,Beef - Kindney Whole,2023-04-04,11,175.49,App,Visa,0.115,155.30865,AppDiscount,ExpiryDateDiscount
+10730,2023-05-07,Bread - White Sliced,2023-06-21,15,89.84,Store,Cash,0.13,78.1608,ExpiryDateDiscount,QuantityDiscount
+10731,2023-05-08,Wine - Pinot Noir Stoneleigh,2023-06-03,14,88.48,App,Visa,0.1,79.632,AppDiscount,WineDiscount
+10732,2023-03-19,Soup Campbells Split Pea And Ham,2023-03-24,16,220.6,Store,Cash,0.175,181.99501,ExpiryDateDiscount,QuantityDiscount
+10733,2023-04-19,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash,0.02,242.0306,ExpiryDateDiscount
+10734,2023-05-04,Edible Flower - Mixed,2023-07-18,6,27.77,Store,Visa,0.105,24.85415,ExpiryDateDiscount,QuantityDiscount
+10735,2023-04-16,Bread - Corn Muffaleta Onion,2023-05-28,12,54.51,Store,Visa,0.125,47.696247,ExpiryDateDiscount,QuantityDiscount
+10736,2023-04-07,Ginger - Fresh,2023-04-20,11,129.22,App,Visa,0.16,108.5448,ExpiryDateDiscount,AppDiscount
+10737,2023-03-26,Doilies - 7 Paper,2023-06-19,10,118.43,App,Visa,0.08,108.9556,AppDiscount,ExpiryDateDiscount
+10738,2023-05-07,Onions - White,2023-07-25,9,41.21,Store,Cash,0.085,37.70715,ExpiryDateDiscount,QuantityDiscount
+10739,2023-04-12,Container - Hngd Cll Blk 7x7x3,2023-06-20,14,115.98,Store,Cash,0.145,99.1629,ExpiryDateDiscount,QuantityDiscount
+10740,2023-05-06,Oxtail - Cut,2023-07-19,15,53.93,Store,Cash,0.135,46.64945,ExpiryDateDiscount,QuantityDiscount
+10741,2023-03-17,Juice Peach Nectar,2023-03-27,15,236.75,Store,Visa,0.15,201.2375,ExpiryDateDiscount,QuantityDiscount
+10742,2023-04-01,Lamb Shoulder Boneless Nz,2023-04-24,2,44.85,Store,Cash,0.07,41.7105,ExpiryDateDiscount
+10743,2023-04-02,Crab - Claws Snow 16 - 24,2023-05-08,6,53.38,App,Visa,0.17,44.3054,ExpiryDateDiscount,AppDiscount
+10744,2023-05-06,Muffin - Mix - Mango Sour Cherry,2023-05-21,1,120.46,Store,Cash,0.15,102.391,ExpiryDateDiscount
+10745,2023-04-16,Soup - French Can Pea,2023-05-06,14,105.55,Store,Visa,0.085,96.578255,ExpiryDateDiscount,QuantityDiscount
+10746,2023-04-06,Pepper - Gypsy Pepper,2023-06-18,10,124.43,App,Visa,0.14,107.0098,ExpiryDateDiscount,AppDiscount
+10747,2023-05-08,Wooden Mop Handle,2023-07-16,17,221.12,Store,Visa,0.16,185.7408,ExpiryDateDiscount,QuantityDiscount
+10748,2023-04-10,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash,0.05,23.8165,ExpiryDateDiscount
+10749,2023-03-24,Tomatoes - Roma,2023-05-11,14,65.78,App,Visa,0.14,56.5708,AppDiscount,ExpiryDateDiscount
+10750,2023-04-18,Dried Peach,2023-04-29,15,218.55,Store,Cash,0.145,186.86026,ExpiryDateDiscount,QuantityDiscount
+10751,2023-05-06,Lumpfish Black,2023-05-15,5,196.47,App,Visa,0.13,170.9289,ExpiryDateDiscount,AppDiscount
+10752,2023-05-01,Lettuce Romaine Chopped,2023-07-09,13,141.92,Store,Visa,0.145,121.3416,ExpiryDateDiscount,QuantityDiscount
+10753,2023-03-14,Danishes - Mini Raspberry,2023-05-06,12,163.31,Store,Cash,0.075,151.06175,ExpiryDateDiscount,QuantityDiscount
+10754,2023-04-15,Crush - Cream Soda,2023-05-15,1,174.23,App,Visa,0.175,143.73975,ExpiryDateDiscount,AppDiscount
+10755,2023-04-29,Cream - 35%,2023-05-11,10,105.23,Store,Cash,0.125,92.076256,ExpiryDateDiscount,QuantityDiscount
+10756,2023-04-08,Sauerkraut,2023-05-14,14,164.65,App,Visa,0.195,132.54324,ExpiryDateDiscount,AppDiscount
+10757,2023-04-05,Cup Translucent 9 Oz,2023-04-20,15,173.74,App,Visa,0.15,147.679,ExpiryDateDiscount,AppDiscount
+10758,2023-04-08,Cheese - Parmesan Grated,2023-05-29,5,204.0,Store,Visa,0.095,184.62,CheeseDiscount,ExpiryDateDiscount
+10759,2023-04-22,Pastry - Mini French Pastries,2023-05-23,5,128.64,App,Visa,0.17,106.7712,ExpiryDateDiscount,AppDiscount
+10760,2023-04-26,Cape Capensis - Fillet,2023-05-05,7,36.43,App,Visa,0.155,30.78335,ExpiryDateDiscount,AppDiscount
+10761,2023-04-21,Ocean Spray - Ruby Red,2023-06-28,7,82.37,Store,Cash,0.14,70.8382,ExpiryDateDiscount,QuantityDiscount
+10762,2023-04-23,Veal - Insides Grains,2023-07-04,9,194.02,Store,Cash,0.12,170.73761,ExpiryDateDiscount,QuantityDiscount
+10763,2023-04-03,Squid - Breaded,2023-04-25,2,131.02,Store,Cash,0.08,120.53841,ExpiryDateDiscount
+10764,2023-04-01,Initation Crab Meat,2023-05-26,6,98.29,Store,Cash,0.05,93.3755,ExpiryDateDiscount,QuantityDiscount
+10765,2023-03-30,Pate - Liver,2023-05-31,17,92.53,App,Visa,0.245,69.860146,ExpiryDateDiscount,AppDiscount
+10766,2023-05-06,Pasta - Penne Rigate Dry,2023-05-16,16,221.46,Store,Cash,0.15,188.24101,ExpiryDateDiscount,QuantityDiscount
+10767,2023-04-07,Samosa - Veg,2023-06-19,13,233.69,Store,Cash,0.125,204.47876,ExpiryDateDiscount,QuantityDiscount
+10768,2023-03-15,Trueblue - Blueberry 12x473ml,2023-05-11,9,72.06,App,Visa,0.075,66.655495,AppDiscount,VisaDiscount
+10769,2023-04-17,Wine - German Riesling,2023-04-20,13,248.89,App,Visa,0.21,196.6231,ExpiryDateDiscount,AppDiscount
+10770,2023-04-07,Amarula Cream,2023-04-16,2,239.54,Store,Cash,0.21,189.23659,ExpiryDateDiscount
+10771,2023-04-17,Pastrami,2023-05-17,3,35.53,Store,Cash,0.3,24.870998,ExpiryDateDiscount
+10772,2023-04-10,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash,0.12,154.528,ExpiryDateDiscount
+10773,2023-03-20,Straws - Cocktale,2023-03-26,10,3.89,Store,Visa,0.155,3.28705,ExpiryDateDiscount,QuantityDiscount
+10774,2023-04-12,Rabbit - Frozen,2023-04-22,13,149.54,App,Visa,0.175,123.37049,ExpiryDateDiscount,AppDiscount
+10775,2023-04-25,Wine - Domaine Boyar Royal,2023-05-20,5,144.9,Store,Visa,0.05,137.655,ExpiryDateDiscount,WineDiscount
+10776,2023-03-24,Tomatoes - Roma,2023-04-30,5,192.52,App,Visa,0.145,164.6046,ExpiryDateDiscount,AppDiscount
+10777,2023-03-25,Pork - Loin Bone - In,2023-06-16,17,29.49,Store,Visa,0.09,26.8359,QuantityDiscount,ExpiryDateDiscount
+10778,2023-04-04,Beef - Ox Tongue Pickled,2023-04-09,15,203.57,Store,Cash,0.175,167.94525,ExpiryDateDiscount,QuantityDiscount
+10779,2023-03-14,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash,0.11,37.9852,ExpiryDateDiscount
+10780,2023-04-12,Canadian Emmenthal,2023-04-29,11,35.42,Store,Visa,0.1,31.877998,ExpiryDateDiscount,QuantityDiscount
+10781,2023-04-10,Propel Sport Drink,2023-07-09,10,221.83,Store,Cash,0.04,212.9568,QuantityDiscount,ExpiryDateDiscount
+10782,2023-04-26,Langers - Mango Nectar,2023-05-24,16,101.45,App,Visa,0.125,88.768745,AppDiscount,VisaDiscount
+10783,2023-04-07,Sour Puss Sour Apple,2023-05-24,1,236.57,App,Visa,0.09,215.2787,ExpiryDateDiscount,AppDiscount
+10784,2023-04-11,Pomello,2023-06-04,13,60.39,Store,Cash,0.065,56.46465,QuantityDiscount,ExpiryDateDiscount
+10785,2023-03-27,Cheese Cloth No 100,2023-05-25,17,186.2,App,Visa,0.15,158.27,AppDiscount,CheeseDiscount
+10786,2023-03-20,Bread Base - Italian,2023-06-01,9,238.44,App,Visa,0.14,205.0584,ExpiryDateDiscount,AppDiscount
+10787,2023-05-12,Soup - Campbells Lentil,2023-05-15,3,22.39,App,Visa,0.16,18.8076,ExpiryDateDiscount,AppDiscount
+10788,2023-03-13,Pepper - Black Crushed,2023-04-30,13,102.37,Store,Cash,0.1,92.133,ExpiryDateDiscount,QuantityDiscount
+10789,2023-05-04,Salt - Seasoned,2023-05-08,6,24.64,Store,Cash,0.155,20.820799,ExpiryDateDiscount,QuantityDiscount
+10790,2023-03-30,Cheese - La Sauvagine,2023-05-17,10,205.46,Store,Cash,0.115,181.8321,ExpiryDateDiscount,CheeseDiscount
+10791,2023-04-10,Wine - Pinot Noir Latour,2023-05-03,1,120.14,Store,Cash,0.06,112.9316,ExpiryDateDiscount,WineDiscount
+10792,2023-03-14,Sprouts - Peppercress,2023-06-03,5,2.57,App,Visa,0.075,2.37725,ExpiryDateDiscount,AppDiscount
+10793,2023-03-26,Numi - Assorted Teas,2023-05-14,10,88.54,Store,Cash,0.095,80.1287,ExpiryDateDiscount,QuantityDiscount
+10794,2023-03-29,Sambuca Cream,2023-05-05,12,75.83,App,Visa,0.195,61.04315,ExpiryDateDiscount,AppDiscount
+10795,2023-05-08,Lemonade - Mandarin 591 Ml,2023-06-16,15,137.07,Store,Cash,0.16,115.13881,ExpiryDateDiscount,QuantityDiscount
+10796,2023-03-22,Melon - Watermelon Seedless,2023-06-19,10,41.32,Store,Cash,0.045,39.460598,QuantityDiscount,ExpiryDateDiscount
+10797,2023-04-24,Rice Paper,2023-05-15,12,59.57,App,Visa,0.12,52.4216,AppDiscount,ExpiryDateDiscount
+10798,2023-04-18,Fruit Salad Deluxe,2023-06-22,8,238.06,Store,Visa,0.155,201.1607,ExpiryDateDiscount,QuantityDiscount
+10799,2023-04-20,Mortadella,2023-06-11,6,230.36,App,Visa,0.09,209.6276,AppDiscount,ExpiryDateDiscount
+10800,2023-03-25,Sausage - Meat,2023-04-18,4,30.89,App,Visa,0.055,29.19105,ExpiryDateDiscount,AppDiscount
+10801,2023-05-01,Wine - Fino Tio Pepe Gonzalez,2023-06-01,9,131.13,App,Visa,0.2,104.90401,ExpiryDateDiscount,AppDiscount
+10802,2023-03-18,Cheese - St. Andre,2023-06-16,7,167.82,App,Visa,0.1,151.03801,CheeseDiscount,AppDiscount
+10803,2023-03-17,Oil - Coconut,2023-05-02,17,121.19,Store,Visa,0.125,106.04125,ExpiryDateDiscount,QuantityDiscount
+10804,2023-04-08,Soup - Campbells Broccoli,2023-06-22,1,144.03,Store,Visa,0.105,128.90685,ExpiryDateDiscount,VisaDiscount
+10805,2023-04-19,Cranberries - Dry,2023-07-09,3,139.58,Store,Visa,0.075,129.1115,ExpiryDateDiscount,VisaDiscount
+10806,2023-05-11,Ezy Change Mophandle,2023-06-09,8,129.63,Store,Cash,0.03,125.741104,QuantityDiscount,ExpiryDateDiscount
+10807,2023-05-04,Gherkin,2023-07-08,8,37.53,App,Visa,0.18,30.7746,ExpiryDateDiscount,AppDiscount
+10808,2023-04-17,Carbonated Water - Raspberry,2023-04-24,12,87.07,Store,Cash,0.15,74.0095,ExpiryDateDiscount,QuantityDiscount
+10809,2023-04-13,Cornstarch,2023-05-14,8,245.26,Store,Cash,0.17,203.5658,ExpiryDateDiscount,QuantityDiscount
+10810,2023-04-19,Iced Tea Concentrate,2023-06-12,6,163.04,App,Visa,0.08,149.9968,AppDiscount,ExpiryDateDiscount
+10811,2023-04-18,Pasta - Rotini Colour Dry,2023-04-24,4,20.13,Store,Cash,0.24,15.2987995,ExpiryDateDiscount
+10812,2023-04-14,Sour Puss Raspberry,2023-06-07,8,38.32,App,Visa,0.08,35.2544,AppDiscount,ExpiryDateDiscount
+10813,2023-04-24,Bread Country Roll,2023-05-19,2,75.17,Store,Cash,0.05,71.4115,ExpiryDateDiscount
+10814,2023-03-16,Apple - Fuji,2023-05-21,15,16.35,App,Visa,0.2,13.08,ExpiryDateDiscount,AppDiscount
+10815,2023-04-27,Soup - Boston Clam Chowder,2023-06-07,6,148.72,Store,Cash,0.12,130.8736,ExpiryDateDiscount,QuantityDiscount
+10816,2023-04-14,Trout - Smoked,2023-07-08,4,143.96,Store,Cash,0.06,135.3224,ExpiryDateDiscount
+10817,2023-04-09,Beer - Camerons Cream Ale,2023-05-21,10,57.34,App,Visa,0.14,49.3124,ExpiryDateDiscount,AppDiscount
+10818,2023-04-25,Juice - Orange 341 Ml,2023-06-14,17,178.63,Store,Cash,0.1,160.767,ExpiryDateDiscount,QuantityDiscount
+10819,2023-04-09,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash,0.17,99.5668,ExpiryDateDiscount
+10820,2023-05-02,Crab - Imitation Flakes,2023-05-05,1,206.65,Store,Cash,0.27,150.85449,ExpiryDateDiscount
+10821,2023-03-19,Bag Clear 10 Lb,2023-04-08,13,41.04,Store,Cash,0.085,37.5516,ExpiryDateDiscount,QuantityDiscount
+10822,2023-05-10,Wine - Mas Chicet Rose Vintage,2023-07-15,10,102.28,Store,Cash,0.16,85.9152,ExpiryDateDiscount,QuantityDiscount
+10823,2023-05-04,Yoghurt Tubes,2023-06-10,17,150.47,App,Visa,0.22,117.3666,ExpiryDateDiscount,AppDiscount
+10824,2023-03-17,Milk - Skim,2023-04-19,13,75.7,Store,Cash,0.175,62.4525,ExpiryDateDiscount,QuantityDiscount
+10825,2023-05-03,Toothpick Frilled,2023-05-06,2,249.77,App,Visa,0.16,209.80681,ExpiryDateDiscount,AppDiscount
+10826,2023-04-06,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash,0.29,89.815,ExpiryDateDiscount
+10827,2023-04-09,Vinegar - Balsamic,2023-07-08,14,218.9,App,Visa,0.1,197.01,AppDiscount,VisaDiscount
+10828,2023-03-24,Canadian Emmenthal,2023-05-10,15,226.6,Store,Visa,0.12,199.408,ExpiryDateDiscount,QuantityDiscount
+10829,2023-03-16,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash,0.2,134.304,ExpiryDateDiscount
+10830,2023-05-10,Wine - Red Cooking,2023-06-08,12,117.64,Store,Cash,0.06,110.5816,QuantityDiscount,WineDiscount
+10831,2023-04-09,Appetizer - Asian Shrimp Roll,2023-06-16,12,16.79,App,Visa,0.19,13.599901,ExpiryDateDiscount,AppDiscount
+10832,2023-03-30,Rum - Cream Amarula,2023-06-13,1,134.62,Store,Visa,0.105,120.48489,ExpiryDateDiscount,VisaDiscount
+10833,2023-03-15,Lettuce - Frisee,2023-03-21,9,55.73,Store,Cash,0.145,47.64915,ExpiryDateDiscount,QuantityDiscount
+10834,2023-04-20,Broom And Broom Rack White,2023-07-19,6,104.25,Store,Cash,0.03,101.1225,QuantityDiscount,ExpiryDateDiscount
+10835,2023-03-14,Squash - Acorn,2023-06-05,11,128.64,Store,Cash,0.075,118.992,ExpiryDateDiscount,QuantityDiscount
+10836,2023-04-25,Water - Spring Water 355 Ml,2023-07-16,14,221.91,Store,Cash,0.08,204.1572,ExpiryDateDiscount,QuantityDiscount
+10837,2023-04-02,Beans - Black Bean Dry,2023-05-19,17,27.22,Store,Cash,0.115,24.089699,ExpiryDateDiscount,QuantityDiscount
+10838,2023-04-26,Gatorade - Orange,2023-06-09,16,89.79,Store,Cash,0.13,78.1173,ExpiryDateDiscount,QuantityDiscount
+10839,2023-04-13,Beer - Labatt Blue,2023-05-13,6,39.62,Store,Cash,0.175,32.6865,ExpiryDateDiscount,QuantityDiscount
+10840,2023-05-08,Soup - Campbells Beef Strogonoff,2023-07-19,9,198.75,Store,Visa,0.12,174.9,ExpiryDateDiscount,QuantityDiscount
+10841,2023-04-21,Pears - Fiorelle,2023-05-08,12,214.24,Store,Cash,0.1,192.81601,ExpiryDateDiscount,QuantityDiscount
+10842,2023-05-03,Pumpkin - Seed,2023-05-20,12,207.73,Store,Cash,0.1,186.957,ExpiryDateDiscount,QuantityDiscount
+10843,2023-04-27,Cookie Dough - Peanut Butter,2023-05-20,13,209.91,App,Visa,0.11,186.8199,AppDiscount,ExpiryDateDiscount
+10844,2023-04-03,Cheese - Le Cheve Noir,2023-06-01,15,30.15,App,Visa,0.125,26.38125,AppDiscount,CheeseDiscount
+10845,2023-03-17,Seaweed Green Sheets,2023-06-07,5,92.83,Store,Visa,0.07,86.3319,ExpiryDateDiscount,VisaDiscount
+10846,2023-05-01,Truffle Paste,2023-05-16,13,56.91,App,Visa,0.15,48.3735,ExpiryDateDiscount,AppDiscount
+10847,2023-04-24,Mcguinness - Blue Curacao,2023-06-08,17,101.32,Store,Visa,0.125,88.655,ExpiryDateDiscount,QuantityDiscount
+10848,2023-03-21,Sugar - White Packet,2023-06-18,7,74.82,Store,Cash,0.035,72.2013,QuantityDiscount,ExpiryDateDiscount
+10849,2023-03-20,Mushroom - Porcini Frozen,2023-04-15,1,168.44,Store,Cash,0.04,161.70241,ExpiryDateDiscount
+10850,2023-04-09,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash,0.22,21.021,ExpiryDateDiscount
+10851,2023-04-11,Wine - Magnotta White,2023-05-25,9,165.52,App,Visa,0.13,144.00241,ExpiryDateDiscount,AppDiscount
+10852,2023-05-04,Southern Comfort,2023-05-19,12,209.5,Store,Cash,0.11,186.455,ExpiryDateDiscount,QuantityDiscount
+10853,2023-04-02,Bread Base - Italian,2023-04-30,12,215.82,Store,Cash,0.045,206.10811,QuantityDiscount,ExpiryDateDiscount
+10854,2023-03-19,Wine - Ruffino Chianti,2023-04-23,12,249.0,Store,Cash,0.165,207.915,ExpiryDateDiscount,QuantityDiscount
+10855,2023-03-21,Rice - 7 Grain Blend,2023-05-25,3,92.48,Store,Visa,0.155,78.1456,ExpiryDateDiscount,VisaDiscount
+10856,2023-05-09,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash,0.15,38.947,ExpiryDateDiscount
+10857,2023-04-27,Oil - Olive Bertolli,2023-07-10,8,27.11,Store,Visa,0.11,24.127901,ExpiryDateDiscount,QuantityDiscount
+10858,2023-03-26,Lamb - Whole Head Off,2023-04-01,16,43.78,Store,Cash,0.17,36.3374,ExpiryDateDiscount,QuantityDiscount
+10859,2023-03-29,Basil - Dry Rubbed,2023-06-22,14,62.45,Store,Cash,0.065,58.39075,QuantityDiscount,ExpiryDateDiscount
+10860,2023-05-01,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash,0.3,6.258,ExpiryDateDiscount
+10861,2023-04-08,Cheese - Marble,2023-04-30,1,123.76,App,Visa,0.09,112.621605,CheeseDiscount,ExpiryDateDiscount
+10862,2023-03-21,Maple Syrup,2023-05-21,10,94.95,Store,Visa,0.185,77.38425,ExpiryDateDiscount,QuantityDiscount
+10863,2023-04-21,Mushroom - Shitake Fresh,2023-07-09,8,142.17,Store,Cash,0.085,130.08554,ExpiryDateDiscount,QuantityDiscount
+10864,2023-04-27,Wine - Tio Pepe Sherry Fino,2023-06-06,8,200.62,Store,Cash,0.125,175.5425,ExpiryDateDiscount,WineDiscount
+10865,2023-03-19,Bread - Italian Roll With Herbs,2023-04-14,4,89.82,Store,Cash,0.04,86.2272,ExpiryDateDiscount
+10866,2023-03-16,Sausage - Meat,2023-05-28,3,78.98,App,Visa,0.115,69.8973,ExpiryDateDiscount,AppDiscount
+10867,2023-03-21,Cheese - Stilton,2023-04-14,10,151.5,Store,Cash,0.085,138.6225,CheeseDiscount,QuantityDiscount
+10868,2023-03-19,Coconut - Whole,2023-04-28,5,82.22,Store,Visa,0.13,71.5314,ExpiryDateDiscount,VisaDiscount
+10869,2023-05-01,Sauce Bbq Smokey,2023-05-04,8,214.28,Store,Cash,0.16,179.9952,ExpiryDateDiscount,QuantityDiscount
+10870,2023-03-21,Soup - Campbells Beef Noodle,2023-04-13,4,37.25,Store,Cash,0.07,34.6425,ExpiryDateDiscount
+10871,2023-03-30,Pop - Club Soda Can,2023-05-22,7,44.56,Store,Cash,0.065,41.6636,ExpiryDateDiscount,QuantityDiscount
+10872,2023-05-05,Vinegar - Balsamic,2023-06-22,3,69.39,Store,Visa,0.09,63.1449,ExpiryDateDiscount,VisaDiscount
+10873,2023-05-01,Soup - Verve - Chipotle Chicken,2023-05-27,12,110.59,Store,Cash,0.055,104.507545,QuantityDiscount,ExpiryDateDiscount
+10874,2023-05-01,Wasabi Powder,2023-07-15,1,150.94,Store,Visa,0.105,135.09131,ExpiryDateDiscount,VisaDiscount
+10875,2023-04-20,Beans - Turtle Black Dry,2023-06-18,16,30.29,Store,Cash,0.055,28.62405,QuantityDiscount,ExpiryDateDiscount
+10876,2023-04-25,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash,0.21,177.4735,ExpiryDateDiscount
+10877,2023-04-22,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash,0.3,104.377,ExpiryDateDiscount
+10878,2023-04-02,Pasta - Cheese / Spinach Bauletti,2023-06-09,10,8.58,App,Visa,0.165,7.1643,ExpiryDateDiscount,CheeseDiscount
+10879,2023-04-24,7up Diet 355 Ml,2023-05-17,6,9.96,Store,Cash,0.06,9.3624,ExpiryDateDiscount,QuantityDiscount
+10880,2023-05-06,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash,0.13,52.0434,ExpiryDateDiscount
+10881,2023-03-23,Muffin - Zero Transfat,2023-04-20,11,66.71,App,Visa,0.325,45.02925,SpecialDayDiscount,AppDiscount
+10882,2023-04-27,Rum - White Gg White,2023-07-06,17,230.88,Store,Cash,0.155,195.0936,ExpiryDateDiscount,QuantityDiscount
+10883,2023-04-02,Arizona - Green Tea,2023-06-05,16,229.55,Store,Visa,0.185,187.08325,ExpiryDateDiscount,QuantityDiscount
+10884,2023-04-05,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash,0.29,48.088303,ExpiryDateDiscount
+10885,2023-05-02,Bread - Malt,2023-05-15,14,144.88,Store,Cash,0.12,127.49441,ExpiryDateDiscount,QuantityDiscount
+10886,2023-04-03,Milk - Buttermilk,2023-04-27,4,166.99,Store,Cash,0.06,156.97061,ExpiryDateDiscount
+10887,2023-04-03,Brandy - Orange Mc Guiness,2023-05-03,7,130.18,App,Visa,0.2,104.144,ExpiryDateDiscount,AppDiscount
+10888,2023-04-11,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash,0.06,117.4624,ExpiryDateDiscount
+10889,2023-04-04,Snails - Large Canned,2023-04-25,14,24.1,App,Visa,0.12,21.208,AppDiscount,ExpiryDateDiscount
+10890,2023-04-11,Garbag Bags - Black,2023-05-20,12,77.24,Store,Visa,0.14,66.4264,ExpiryDateDiscount,QuantityDiscount
+10891,2023-03-29,Persimmons,2023-05-09,5,136.79,App,Visa,0.125,119.691246,ExpiryDateDiscount,AppDiscount
+10892,2023-03-14,Salmon Atl.whole 8 - 10 Lb,2023-04-20,8,156.61,App,Visa,0.17,129.9863,ExpiryDateDiscount,AppDiscount
+10893,2023-03-30,Soup - Campbells Mushroom,2023-04-27,7,109.53,App,Visa,0.075,101.31525,AppDiscount,VisaDiscount
+10894,2023-04-29,Soup - Campbells Cream Of,2023-05-21,4,112.28,Store,Cash,0.08,103.2976,ExpiryDateDiscount
+10895,2023-04-10,Stainless Steel Cleaner Vision,2023-07-08,16,189.18,Store,Cash,0.06,177.8292,QuantityDiscount,ExpiryDateDiscount
+10896,2023-05-01,Juice - Ocean Spray Cranberry,2023-05-27,7,166.35,Store,Cash,0.045,158.86426,QuantityDiscount,ExpiryDateDiscount
+10897,2023-03-31,Beets,2023-04-29,16,147.22,App,Visa,0.125,128.8175,AppDiscount,VisaDiscount
+10898,2023-04-04,Fish - Base Bouillion,2023-05-10,4,118.02,App,Visa,0.145,100.9071,ExpiryDateDiscount,AppDiscount
+10899,2023-03-26,Bread - Crumbs Bulk,2023-06-02,13,43.03,App,Visa,0.19,34.854298,ExpiryDateDiscount,AppDiscount
+10900,2023-03-16,Sauce Bbq Smokey,2023-03-21,12,10.45,Store,Visa,0.16,8.778,ExpiryDateDiscount,QuantityDiscount
+10901,2023-03-17,Basil - Pesto Sauce,2023-05-09,2,68.81,App,Visa,0.065,64.33735,ExpiryDateDiscount,AppDiscount
+10902,2023-04-17,Macaroons - Two Bite Choc,2023-04-19,4,16.93,App,Visa,0.165,14.13655,ExpiryDateDiscount,AppDiscount
+10903,2023-04-22,Plaintain,2023-07-07,11,238.69,Store,Visa,0.11,212.4341,ExpiryDateDiscount,QuantityDiscount
+10904,2023-04-04,Cookies Almond Hazelnut,2023-06-12,5,38.24,Store,Visa,0.135,33.077602,ExpiryDateDiscount,VisaDiscount
+10905,2023-04-27,Pear - Asian,2023-07-20,14,243.82,App,Visa,0.11,216.9998,AppDiscount,ExpiryDateDiscount
+10906,2023-04-23,Long Island Ice Tea,2023-04-30,3,104.64,Store,Visa,0.14,89.9904,ExpiryDateDiscount,VisaDiscount
+10907,2023-03-14,Cheese - St. Paulin,2023-05-22,5,8.91,Store,Cash,0.16,7.4844,ExpiryDateDiscount,CheeseDiscount
+10908,2023-04-10,Plate Pie Foil,2023-05-13,13,214.06,Store,Visa,0.17,177.6698,ExpiryDateDiscount,QuantityDiscount
+10909,2023-03-22,Scallops - 20/30,2023-05-24,14,202.69,Store,Cash,0.175,167.21925,ExpiryDateDiscount,QuantityDiscount
+10910,2023-04-16,Lettuce - Spring Mix,2023-06-24,15,156.02,Store,Visa,0.16,131.05681,ExpiryDateDiscount,QuantityDiscount
+10911,2023-03-27,Rosemary - Dry,2023-04-06,11,108.69,App,Visa,0.175,89.66925,ExpiryDateDiscount,AppDiscount
+10912,2023-04-13,Chicken Breast Halal,2023-04-28,1,178.75,Store,Cash,0.15,151.9375,ExpiryDateDiscount
+10913,2023-04-01,Nescafe - Frothy French Vanilla,2023-05-05,12,39.98,Store,Cash,0.165,33.3833,ExpiryDateDiscount,QuantityDiscount
+10914,2023-03-18,Bread - Raisin Walnut Oval,2023-03-30,5,137.17,Store,Cash,0.18,112.4794,ExpiryDateDiscount
+10915,2023-04-13,Kahlua,2023-04-24,7,46.35,App,Visa,0.145,39.62925,ExpiryDateDiscount,AppDiscount
+10916,2023-04-07,Bread - Roll Soft White Round,2023-04-09,7,196.49,Store,Cash,0.165,164.06915,ExpiryDateDiscount,QuantityDiscount
+10917,2023-04-14,7up Diet 355 Ml,2023-06-20,15,123.85,Store,Cash,0.17,102.7955,ExpiryDateDiscount,QuantityDiscount
+10918,2023-03-21,Chinese Foods - Plain Fried Rice,2023-03-30,16,227.83,Store,Cash,0.155,192.51636,ExpiryDateDiscount,QuantityDiscount
+10919,2023-04-10,Chicken - Whole,2023-06-20,15,2.58,Store,Cash,0.15,2.1929998,ExpiryDateDiscount,QuantityDiscount
+10920,2023-04-17,Goldschalger,2023-06-08,1,210.04,Store,Cash,0.08,193.2368,ExpiryDateDiscount
+10921,2023-04-11,External Supplier,2023-05-31,5,142.72,Store,Cash,0.1,128.448,ExpiryDateDiscount
+10922,2023-04-02,Wine - Coteaux Du Tricastin Ac,2023-06-04,14,150.4,App,Visa,0.215,118.063995,ExpiryDateDiscount,AppDiscount
+10923,2023-03-19,Vol Au Vents,2023-05-26,1,182.95,Store,Cash,0.23,140.87149,ExpiryDateDiscount
+10924,2023-04-30,Mushrooms - Honey,2023-05-18,15,129.55,Store,Cash,0.11,115.2995,ExpiryDateDiscount,QuantityDiscount
+10925,2023-05-08,Tomatoes Tear Drop Yellow,2023-07-15,12,157.22,Store,Visa,0.15,133.637,ExpiryDateDiscount,QuantityDiscount
+10926,2023-04-24,Nut - Pecan Halves,2023-06-18,14,153.77,Store,Cash,0.06,144.54381,QuantityDiscount,ExpiryDateDiscount
+10927,2023-03-25,Yoplait Drink,2023-04-15,4,104.59,App,Visa,0.07,97.2687,ExpiryDateDiscount,AppDiscount
+10928,2023-04-01,Wine - Magnotta - Cab Franc,2023-06-16,1,130.59,App,Visa,0.1,117.531,ExpiryDateDiscount,WineDiscount
+10929,2023-04-18,Goat - Whole Cut,2023-05-03,1,151.8,Store,Cash,0.15,129.03,ExpiryDateDiscount
+10930,2023-04-01,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash,0.22,185.09401,ExpiryDateDiscount
+10931,2023-04-13,Cookie Trail Mix,2023-05-19,14,172.88,Store,Cash,0.155,146.0836,ExpiryDateDiscount,QuantityDiscount
+10932,2023-04-25,Veal - Bones,2023-05-20,5,138.77,App,Visa,0.05,131.8315,ExpiryDateDiscount,AppDiscount
+10933,2023-05-01,Goulash Seasoning,2023-06-15,15,164.89,App,Visa,0.155,139.33205,ExpiryDateDiscount,AppDiscount
+10934,2023-04-27,Buffalo - Striploin,2023-07-24,2,101.45,Store,Visa,0.04,97.392,VisaDiscount,ExpiryDateDiscount
+10935,2023-04-29,Juice - Lagoon Mango,2023-06-30,13,234.01,Store,Cash,0.18,191.8882,ExpiryDateDiscount,QuantityDiscount
+10936,2023-03-30,Milk - Chocolate 250 Ml,2023-04-05,12,133.88,App,Visa,0.195,107.77341,ExpiryDateDiscount,AppDiscount
+10937,2023-05-10,Flower - Leather Leaf Fern,2023-07-19,10,245.38,Store,Visa,0.14,211.02681,ExpiryDateDiscount,QuantityDiscount
+10938,2023-04-04,Fish - Soup Base Bouillon,2023-04-28,9,95.57,App,Visa,0.08,87.9244,AppDiscount,ExpiryDateDiscount
+10939,2023-05-12,Silicone Paper 16.5x24,2023-07-08,11,145.99,App,Visa,0.1,131.391,AppDiscount,VisaDiscount
+10940,2023-05-12,Red Currants,2023-07-11,17,208.22,Store,Visa,0.075,192.6035,QuantityDiscount,VisaDiscount
+10941,2023-05-01,Lamb - Shanks,2023-05-14,14,205.98,App,Visa,0.16,173.0232,ExpiryDateDiscount,AppDiscount
+10942,2023-03-17,Coriander - Seed,2023-04-16,15,60.88,Store,Visa,0.075,56.314,QuantityDiscount,VisaDiscount
+10943,2023-03-24,Pepper - Sorrano,2023-05-28,7,198.13,Store,Cash,0.155,167.41986,ExpiryDateDiscount,QuantityDiscount
+10944,2023-03-30,Ecolab - Hobart Upr Prewash Arm,2023-05-22,16,11.52,Store,Cash,0.09,10.4832,QuantityDiscount,ExpiryDateDiscount
+10945,2023-04-17,Oil - Coconut,2023-06-11,13,227.47,Store,Cash,0.06,213.82181,QuantityDiscount,ExpiryDateDiscount
+10946,2023-04-14,Juice - Orange 1.89l,2023-04-17,16,246.62,Store,Visa,0.185,200.9953,ExpiryDateDiscount,QuantityDiscount
+10947,2023-04-03,Fennel - Seeds,2023-04-12,10,25.65,Store,Cash,0.14,22.059,ExpiryDateDiscount,QuantityDiscount
+10948,2023-03-22,Lotus Rootlets - Canned,2023-05-15,17,11.33,Store,Cash,0.085,10.36695,QuantityDiscount,ExpiryDateDiscount
+10949,2023-03-21,Chocolate - Chips Compound,2023-05-13,9,2.21,Store,Visa,0.065,2.06635,ExpiryDateDiscount,QuantityDiscount
+10950,2023-05-08,Bagel - Everything,2023-07-14,14,14.0,Store,Cash,0.155,11.83,ExpiryDateDiscount,QuantityDiscount
+10951,2023-03-23,Beef - Sushi Flat Iron Steak,2023-05-08,3,165.0,Store,Visa,0.325,111.375,SpecialDayDiscount,ExpiryDateDiscount
+10952,2023-04-08,Cheese - Colby,2023-05-20,2,178.87,App,Visa,0.14,153.8282,ExpiryDateDiscount,CheeseDiscount
+10953,2023-03-27,Bagel - Sesame Seed Presliced,2023-04-23,14,56.25,Store,Cash,0.05,53.4375,QuantityDiscount,ExpiryDateDiscount
+10954,2023-04-03,Tomatoes - Cherry,2023-04-16,15,149.69,App,Visa,0.16,125.7396,ExpiryDateDiscount,AppDiscount
+10955,2023-03-26,Pastry - Banana Muffin - Mini,2023-05-19,4,113.46,Store,Visa,0.06,106.6524,ExpiryDateDiscount,VisaDiscount
+10956,2023-03-23,Cheese - Cream Cheese,2023-06-10,9,76.68,Store,Cash,0.31,52.9092,SpecialDayDiscount,ExpiryDateDiscount
+10957,2023-04-18,Pork Casing,2023-06-29,2,18.75,App,Visa,0.12,16.5,ExpiryDateDiscount,AppDiscount
+10958,2023-04-05,Wine - Puligny Montrachet A.,2023-06-08,2,99.6,App,Visa,0.16,83.664,ExpiryDateDiscount,WineDiscount
+10959,2023-04-29,Soup - Clam Chowder Dry Mix,2023-05-14,17,93.42,App,Visa,0.175,77.071495,AppDiscount,ExpiryDateDiscount
+10960,2023-03-20,Pork - Smoked Kassler,2023-05-28,15,3.52,Store,Cash,0.16,2.9568,ExpiryDateDiscount,QuantityDiscount
+10961,2023-04-23,Cardamon Ground,2023-07-09,3,117.79,App,Visa,0.095,106.59995,ExpiryDateDiscount,AppDiscount
+10962,2023-05-12,Island Oasis - Lemonade,2023-05-16,7,30.26,App,Visa,0.18,24.8132,ExpiryDateDiscount,AppDiscount
+10963,2023-04-21,Coffee Beans - Chocolate,2023-04-26,9,19.46,App,Visa,0.175,16.054499,ExpiryDateDiscount,AppDiscount
+10964,2023-03-21,Glucose,2023-06-04,11,60.92,App,Visa,0.155,51.477398,ExpiryDateDiscount,AppDiscount
+10965,2023-04-20,Beef - Tongue Cooked,2023-05-13,15,13.78,Store,Visa,0.085,12.6087,QuantityDiscount,ExpiryDateDiscount
+10966,2023-03-25,Table Cloth 62x120 Colour,2023-05-15,17,26.57,App,Visa,0.15,22.5845,AppDiscount,ExpiryDateDiscount
+10967,2023-03-31,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash,0.15,131.0275,ExpiryDateDiscount
+10968,2023-05-07,Pasta - Lasagna Dry,2023-07-31,7,80.81,Store,Cash,0.055,76.36545,ExpiryDateDiscount,QuantityDiscount
+10969,2023-04-19,Soup - Cream Of Broccoli,2023-05-03,15,162.26,Store,Visa,0.13,141.1662,ExpiryDateDiscount,QuantityDiscount
+10970,2023-04-06,Sambuca - Ramazzotti,2023-07-05,11,191.82,App,Visa,0.1,172.638,AppDiscount,VisaDiscount
+10971,2023-04-28,Wine - Kwv Chenin Blanc South,2023-06-16,10,8.87,App,Visa,0.105,7.93865,ExpiryDateDiscount,AppDiscount
+10972,2023-04-06,Wine - Manischewitz Concord,2023-04-16,1,5.39,App,Visa,0.125,4.71625,ExpiryDateDiscount,WineDiscount
+10973,2023-05-02,Cookie Dough - Double,2023-06-18,11,169.19,Store,Cash,0.105,151.42505,ExpiryDateDiscount,QuantityDiscount
+10974,2023-05-03,Beef - Bresaola,2023-05-09,6,91.29,App,Visa,0.17,75.7707,ExpiryDateDiscount,AppDiscount
+10975,2023-04-13,Smoked Paprika,2023-06-22,1,202.23,App,Visa,0.13,175.9401,ExpiryDateDiscount,AppDiscount
+10976,2023-04-22,Puree - Blackcurrant,2023-07-07,15,10.48,Store,Cash,0.125,9.17,ExpiryDateDiscount,QuantityDiscount
+10977,2023-05-03,Pepper - Chillies Crushed,2023-06-19,17,72.58,App,Visa,0.17,60.2414,AppDiscount,ExpiryDateDiscount
+10978,2023-04-22,Tea - English Breakfast,2023-06-21,16,6.63,Store,Visa,0.075,6.13275,QuantityDiscount,VisaDiscount
+10979,2023-04-23,Mustard - Individual Pkg,2023-07-04,7,198.68,App,Visa,0.145,169.8714,ExpiryDateDiscount,AppDiscount
+10980,2023-04-01,Cheese - Goat,2023-05-25,5,213.05,Store,Cash,0.08,196.006,CheeseDiscount,ExpiryDateDiscount
+10981,2023-04-25,Swiss Chard,2023-05-25,1,242.97,Store,Cash,0.3,170.079,ExpiryDateDiscount
+10982,2023-03-26,Juice - Apple 284ml,2023-04-22,17,30.02,Store,Cash,0.065,28.0687,QuantityDiscount,ExpiryDateDiscount
+10983,2023-04-08,Dip - Tapenade,2023-05-15,15,188.33,App,Visa,0.19,152.5473,ExpiryDateDiscount,AppDiscount
+10984,2023-04-18,Horseradish - Prepared,2023-05-06,6,164.86,App,Visa,0.11,146.7254,ExpiryDateDiscount,AppDiscount
+10985,2023-04-27,Bar Mix - Pina Colada 355 Ml,2023-07-12,15,86.4,App,Visa,0.15,73.44,ExpiryDateDiscount,AppDiscount
+10986,2023-03-22,Wine - White Riesling Semi - Dry,2023-06-08,1,102.32,App,Visa,0.09,93.1112,ExpiryDateDiscount,WineDiscount
+10987,2023-03-25,Chicken - Leg / Back Attach,2023-06-20,7,38.09,Store,Visa,0.05,36.1855,QuantityDiscount,VisaDiscount
+10988,2023-05-07,Radish - Pickled,2023-06-01,16,243.4,Store,Visa,0.075,225.14499,QuantityDiscount,ExpiryDateDiscount
+10989,2023-03-23,Mushroom - Chantrelle Fresh,2023-04-06,5,19.92,App,Visa,0.33,13.3464,SpecialDayDiscount,ExpiryDateDiscount
+10990,2023-04-11,Chicken - White Meat With Tender,2023-07-01,9,69.71,App,Visa,0.1,62.739,ExpiryDateDiscount,AppDiscount
+10991,2023-04-21,Shrimp - Black Tiger 13/15,2023-07-10,17,101.43,Store,Cash,0.105,90.779854,ExpiryDateDiscount,QuantityDiscount
+10992,2023-04-14,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash,0.17,76.2604,ExpiryDateDiscount
+10993,2023-04-27,Chicken - Breast 5 - 7 Oz,2023-06-15,15,192.27,Store,Cash,0.105,172.08165,ExpiryDateDiscount,QuantityDiscount
+10994,2023-03-24,Blueberries,2023-05-27,3,16.26,Store,Cash,0.27,11.869801,ExpiryDateDiscount
+10995,2023-04-25,Wine - Charddonnay Errazuriz,2023-05-27,12,109.45,App,Visa,0.215,85.91825,ExpiryDateDiscount,AppDiscount
+10996,2023-04-24,Veal - Round Eye Of,2023-06-18,17,206.63,App,Visa,0.125,180.80125,AppDiscount,ExpiryDateDiscount
+10997,2023-04-27,Veal - Leg,2023-07-02,3,152.74,App,Visa,0.15,129.82901,ExpiryDateDiscount,AppDiscount
+10998,2023-03-31,Gin - Gilbeys London Dry,2023-05-09,4,234.71,Store,Visa,0.13,204.19771,ExpiryDateDiscount,VisaDiscount
+10999,2023-04-14,Creme De Banane - Marie,2023-06-04,1,9.05,App,Visa,0.07,8.4165,ExpiryDateDiscount,AppDiscount
